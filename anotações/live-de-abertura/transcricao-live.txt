@@ -1,0 +1,946 @@
+Durante anos, a Di fez a diferença. Inspirou talentos, abriu portas, conectou pessoas a oportunidades reais e
+junto com as empresas mais inovadoras do mundo e experts sensacionais, criou a maior comunidade téc da América Latina.
+Essa é a DIO que conquistou o mundo, que foi reconhecida pelo Fórum Econômico Mundial como Technology Pioneer, que
+distribuiu mais de 3.7 milhões de bolsas e que impactou 21 milhões de pessoas.
+Fazer a mudança foi só o começo. O mundo mudou e isso não é mais o suficiente. Agora [música] é necessário construir a
+mudança. Agentes de IA estão criando a maior janela de oportunidades do mercado global. 170 milhões de novas funções
+surgirão até 2030. Profissionais com domínio em A já recebem em média 50% a
+mais. E pela primeira vez na história, uma única pessoa pode construir um negócio de escala global. O mercado
+ainda está sendo estruturado e as posições ainda estão em aberto. Quem dominar agentes de agora sai em
+vantagem. A DIIO está aqui para isso, para você builder dominar os agentes de inteligência artificial que estão
+redefinindo o metade. Com mais de 157 empresas globais e experts do mundo inteiro, a Di organiza o caminho
+completo do aprendizado à construção, da construção a oportunidade. Você cria seus próprios agentes, constrói soluções
+que ampliam o que você consegue fazer e conquista as melhores posições do mercado. A DIO é a plataforma que
+conecta a comunidade global de builders para dominar agentes de inteligência artificial e conquistar as melhores
+oportunidades. O mundo é agora. O caminho está aqui. Diio [música] build the change.
+Fala comunidade tec mais vibrante desse Brasilzão. Aqui Gláci fundador da Dia
+numa noite épica. Ó, já vi aqui muita gente conhecida no chat. Quero saber da
+onde você tá falando se o Brasil inteiro tá conosco nessa jornada junto com os
+maiores bancos do mundo. Inovação na veia, que é aquilo que a gente gosta.
+Chegou o grande dia do Banco Itaú. Lançamento incrível, bootcamp, Java com
+inteligência artificial, Banco Itaú. para você e quer aprender uma das tecnologias mais usadas por uma das
+empresas que mais estão revolucionando o setor financeiro no mundo, tá? Eu falo isso no mundo porque a gente faz parte
+do Foró Econômico Mundial e vê a representatividade do Banco Itaú revolucionando o mundão aa e contando
+todos os seus cases. Então já quero saber da onde você tá falando. Vamos ver quem tá com a gente aqui no chat, ó.
+Pará com a gente. Obrigado demais, Johã, por estar com a gente. São Paulo, ó, hoje eu não tô no setup tradicional, tô
+aqui em São Paulo hoje, não tô no estúdio lá nosso também, não tô na nossa cidadezinha natal ali, então tô com com
+um be diferente aqui atrás. Olha que legal também Passos, Minas Gerais com a gente, Rio de Janeiro também.
+Compartilha essa live porque são 15.000 bolsas. O Itaú falou assim, ó, eu não
+quero fazer nada, é pequeno, hein. Se for para eu fazer algum programa com ADI, eu quero fazer algo que vai
+revolucionar esse Brasilzão. A gente levantou nossa barra e estamos aqui hoje. Então, já compartilha que são
+grandes oportunidades. Tem um pouco mais de 8.000 pessoas já inscritas e a gente
+tem 15.000 bolsas. Então, 0800. E vou aproveitar e já vou chamar, né, a
+Priscila, o Artur, o Caio deve estar entrando com a gente aí daqui a pouco.
+Gente, obrigado demais. Caio tava nos bastidores com a gente aqui, tô achando que caiu. Obrigado demais
+[limpando a garganta] por estar com a gente. Assim, é uma mega honra esse primeiro boot campa já. Puxou no Caio
+aqui, ó. Vamos lá. Cai tá chegando. Uma mega oportunidade para toda a
+comunidade. A gente sabe o quanto o Itaú revoluciona a tecnologia, o quanto o
+Itaú democratiza, o quanto o Itaú consegue trabalhar eh todo esse impacto
+que o ecossistema de tecnologia traz. E é uma grande honra estar com vocês.
+Obrigado, Caião, por estar com a gente aqui também. Priscila, fica à vontade para se apresentar. Eh, é uma honra pra
+gente aqui, toda a comunidade tá com vocês. Legal. Bem, boa noite. É um prazer estar
+aqui com vocês hoje aqui nessa nessa live aqui. Eh, então, meu nome é Priscila, eu vou fazer minha
+audiodescrição como sendo um item de cultura aqui do banco. Então, eu sou uma mulher branca de cabelos castanhos
+longos, olhos castanhos, estou com vestido preto e um blazer mostarda. Hoje
+eu estou como superintendente de tecnologia aqui dentro do banco e vai ser muito legal aqui esse espaço de
+troca com vocês aqui nesse tempinho que passaremos juntos. Obrigado, Priscila. Artur, poxa,
+obrigado também. assim, a gente sabe dos dos desafios e a correria do dia a dia aí no banco, mas desde o primeiro dia
+todo o time Itaú foi super solidário para construir esse bootcamp e não
+deixou a nenhum momento eh a nossa comunidade eh sem essa expectativa.
+Então, poxa, obrigado demais pela essa parceria, fica à vontade com presidente,
+eu que agradeço, assim, é um prazer eh tá aqui com vocês hoje, né? trabalhei
+muito aqui, né, nos bastidores, né, para pra gente ter essa parceria, né, e inclusive, eh, tem muito ainda por vir,
+né, mas daqui a pouco a gente já dar spoiler ali paraas pessoas. Mas, eh, fazendo também a minha audiodescrição,
+como a Pripou, eh, eu sou um homem branco, eh, de cabelos pretos, tô com um
+fone de ouvido azul, tô com lancei recentemente um cavanhaque, né, e tudo
+mais. Então, tô testando essa, essa nova skin minha. Tô com uma camiseta laranja
+do Itaú e atrás eu tô com um fundo eh do Itaú com várias pedras, né, que é o
+formato aqui do logo do Itaú, que é um quadrado eh com as bordas a arredondadas. Então são três eh
+quadrados, laranja, amarelo, azul e o logo do Itaú também.
+Obrigada. Só terminando. Só só terminando. Eh, e hoje eu represento aqui a área de pessoas aqui
+dentro do banco, né? Então, a frente de atração marca empregadora. Então, tô tô
+aqui nesse chapéu hoje aqui dentro do banco. Obrigado, [limpando a garganta] Tur
+Caião. Poxa, obrigado demais também. Eu sei da correria aí no banco que vocês em TEC t, mas sempre muito solidário aqui,
+trazendo essa super oportunidade pra comunidade. Fica à vontade para se apresentar. Obrigado.
+Eu que agradeço. Muito obrigado pelo convite. Eh, fazero minha audiodes descrição aqui, para quem não me conhece, me chamo Caio. Eu sou um homem
+branco. Eu tenho cabelo castanho claro. Tô usando uma camiseta branca meio de
+estrada, canelada, não sei dizer ao certo. Eu tô com um fundo aqui de uma porta e, enfim, paredes dos meus lados
+aqui. E, cara, eu ainda não lancei o cavanhaque, ô, ô, Artur, mas ficou bacana. Aí, já que eu lançar o
+Cavanhaque também, que aqui não cresce em mim, né, cara? Mas, mas obrigadão pelo convite. Fico muito feliz aqui de
+estar fazendo parte do boot camp. Tô vendo que tem bastante gente de muito lugar aqui. Então, poxa, vai ser maneiro aqui, cara.
+Show de bola. Obrigado. É, tem gente do Brasil e de fora do Brasil, né? Eu tô tô
+achando isso demais. Tem cara de Portugal ali, ó. Central. É, é, tem a galera geralmente de quem quem
+tiver Moçambique, Angola, pode mandar aí também. Daqui a pouco chega a galera de Moçambique e Angola também. Poxa, muito
+obrigado. Eu fazendo minha audiodescrição também. Eu sou o Iglá, tô aqui cabelo preto, homem branco. Tô
+usando um óculos, uma camiseta preta da dia de a gente brinca aqui que é é farda
+nossa, né? uniforme nosso do dia a dia e tô no meu fundo branco aqui. É um é um
+super prazer estar recebendo toda a comunidade. Eu vi que aumentou a nossa audiência, então assim, se você acabou
+de chegar, seja muito bem-vinda, seja muito bem-vindo. Ó, dia de gala, eu só tirei a gravatinha um pouquinho, mas dia
+de gravatinha aqui, noite de gala, chegada do Itaú para transformar a
+comunidade técna de Iow, gerando grandes oportunidades para todos nós. Manda da
+onde você tá falando. Compartilha essa live porque o bootcamp é 0800. Já viu o pessoal perguntando, talvez quem não é da nossa comunidade, se você não
+conhece, é 0800, tá? É o Itaú trazendo essa grande oportunidade, 100% free. O
+link tá aqui na descrição. São 15.000 bolsas de estudo. O Itaú virou para f, cara, eu não quero fazer nada pequeno,
+senhor. Para fazer, vamos fazer impacto que a gente é [risadas] grande aqui. Só quer trabalhar com o time de Champions
+League, né? É só Champions League que vem aqui. E é isso. Então já se inscreve e já eh começa porque são 8.000
+pessoas já inscritas. Depois a gente vai passar um pouquinho porque já tem gente liberando o ranking aí do Multicamp já e
+a gente vai falar sobre isso mais para frente. Mas Priscila, poxa, eh, Java com
+inteligência artificial, como que você vê a evolução da tecnologia, o uso aí
+dentro do banco e por escolheu esse tema que é um dos mais aí procurados pelo
+mercado também, né? Obrigado. Vamos lá. É, quando a gente fala aqui de
+de tecnologia, né, assim, a gente fala que hoje a tecnologia ela virou mais do que simplesmente aqui um conjunto de
+linguagens, né, ou de ou de plataformas, né, na verdade ela virou uma grande habilitador de negócios, né? Então, no
+fim, quando a gente fala aqui de Java, de cloud, né, de inteligência artificial, que é o que a gente vai ver
+aqui no bootcamp aqui, que vocês vão ter o prazer aqui de fazer aqui junto com a gente, é um dos pilares aqui que a gente
+tem quando fala aqui de de transformação tecnológica aqui, quando a
+gente fala do contexto mais mão na massa, a o Java ainda continua sendo ali uma das principais linguagens ali que
+sustentam, né, todas as nossas as nossas aplicações críticas aqui no banco. E quando a gente fala de Cláudio aqui,
+óbvio que a gente tem um parceiro bastante conhecido no mercado, que é a WS. E quando a gente fala da nossa jornada, né, dentro do contexto mundial,
+né, quando a gente fala daquilo que a gente é hoje, né, seja dos de tecnologia, seja de inteligência
+artificial, muito vem daquilo que a gente investiu de a gente ir para a cloud, eh, justamente porque ele traz
+ali uma capacidade maior ali de mudança, de transformação, de inovação, né,
+porque a gente acaba trazendo mais flexibilidade ali, mais facilidade ali quando fala das nossas plataformas. E a
+Iá, a gente assim, eu sempre costumo dizer que a IA, né, as as pessoas ainda têm alguns receios, mas eu costumo dizer
+que a IA é uma extensão da nossa inteligência, né, assim, de quanto que a gente amplia, né, o nosso a nossa
+capacidade aqui de desenvolver soluções e colocando a nossa inteligência aqui a
+nosso favor e de fato gerar ali as melhores soluções, automatizar processos, até pra gente de fato
+resolver problemas reais, né, assim, e a tecnologia não é a tecnologia pela tecnologia, se ela não resolve problema
+algum, né? Tanto é que uma das principais perguntas que a gente faz aqui dentro do banco é: problema você quer resolver? justamente porque a gente
+quer, né, fazer a melhor combinação de todas, seja que de Java com Cláudia, inteligência artificial, qualquer outra
+tecnologia que a gente usa aqui do banco, pra gente poder de fato entender resolver problemas reais, né, e que de
+fato melhorem aqui a satisfação do cliente. E eu acho que por isso, né, assim, não só, né, nesse nessa parceria
+que a gente tá aqui com vocês, e é uma preocupação bastante eh grande aqui dentro do banco, de como que a gente
+investe, né, continuamente aqui no no nosso no nosso skill aqui dos nossos
+youtubers, pra gente poder de fato est sempre conectado com aquilo que tá mais na ponta ali, justamente pra gente poder
+ter mais criatividade, mais ferramentas, para que a gente possa de fato resolver problemas de várias maneiras diferentes,
+né? E de fato, assim, quando a gente fala da competência, não só técnica, né, quando a gente fala aqui das várias
+áreas da tecnologia, a gente também tá falando de soft skill, né? Eu sei que vai ter mentoria aqui no bootcamp, fica
+a dica, tá gente? Então assim, então significa também que eu também tenho que trabalhar não só a questão técnica, mas
+também a minha parte de soft skills, né? A questão do protagonismo, da atitude, assim, porque só saber a ferramenta
+também não vai levar a gente a lugar nenhum, né? Eu sempre falo isso, né? assim, falo que certificado na parede
+não resolve problema e não é isso que faz a gente aplicar isso de uma maneira eh eh disruptiva aqui pra gente poder de
+fato eh resolver e criar satisfação do cliente de maneira real no final das contas, tá?
+Show de bola, Priscilá. vi que tá aumentando a nossa audiência aqui. Então assim, se você acabou de chegar, seja
+muito bem-vinda, muito bem-vindo. Hoje é o lançamento do Bootcamp Itaú, Java, eh, com inteligência artificial,
+oportunidade de você ter contato com uma das tecnologias que são mais usadas
+dentro do Banco Taú, como a Priscila falou, e uma das instituições mais inovadoras do mundo, que vem trazendo
+cada vez mais conveniência, facilidade, oportunidade aí para toda a comunidade
+tec brasileira. Então, se você é a primeira vez na dio, se cadastra, é
+gratuito. Para quem já tá acostumado com a dio, é só ir lá, já tem mais de 8.000 pessoas e é 0800, é só chegar, se
+cadastrar e sair fazendo. Aí já vou mandar aí um grande abraço. Obrigado para Railele por estar com a gente. Ela
+falando: "Primeiro contato com Java". Eu acho que essa foi uma parte muito legal que o time do Itaú se preocupou muito,
+como fazer uma primeira um primeiro bootcamp de entrada para que pessoas também que ou tivessem outra tecnologia
+ou dando o primeiro passo tivesse essa oportunidade com inteligência artificial e Java e Spring Boot, Spring Cloud,
+Spring Security que também faz parte aí dessa jornada. Ô Artur, e aí já falando um pouquinho eh de posicionamento e
+marca, né, cara, assim, a gente vê Itaú em todos os lugares, eh em todas as palestras, no mundo tec principalmente.
+A galera é apaixonada por tá aí no Itaú. Mas poxa, a gente tá vendo aqui muita
+gente assim, Brasil e Brasil todo, né? Norte a sul, leste oeste, conectado com
+essa oportunidade. Como que você vê essa oportunidade para essas pessoas em
+estarem interagindo um pouco mais com essa experiência, com as mentorias do Itaú e principalmente o desenvolvimento
+da marca, né, evolução da marca do Itaú também dentro da comunidade do Jaô? Obrigado.
+Legal. É, gente, eu acho que o Itaú é eh é uma das eh recentemente saiu aqui que o o
+Itaú é uma das marcas mais valiosas que a gente tem no país, né? Eu brinco, né,
+que se você não conhece o Itaú, né, estava numa caverna assim, né, porque realmente a gente tá presente em todo
+lugar, assim, na propaganda da novela das 8, eh, até o ponto de ônibus, né, o,
+enfim, a gente tá em todos os lugares tendo esse contato eh com eh diariamente
+com os brasileiros. E isso vem também com uma um uma forte forte ponto da
+gente fortalecer a nossa marca enquanto empregadora também, né? Hoje a gente aqui no banco tem cerca de 90.000
+colaboradores. Muita gente, muita gente. Itaú é uma das empresas, uma das empresas brasileiras
+que mais entregam pessoas. E hoje, eh, o
+Itaú tem aqui uma fortaleza de contratação aqui de profissionais de tec, né, de tecnologia, de dados, eh,
+produto, design. E há agora, né, sendo um um grande fomento aqui de
+profissionais e tudo mais. eh todas as carreiras digitais aqui, né, de maneira
+integrada, é a forma como a gente trabalha eh no dia a dia, né? Eh, a
+gente começou como uma tríade, agora são eh quartet, daqui a pouco até um quinteto, né? as squads trabalhando
+todas integradas aqui. E mas no fim do dia, quando a gente fala de eh
+posicionamento, de marca empregadora, enfim, eh boot camps, como a gente tá
+promovendo aqui, ele ele é um ganho pro Itaú e para as pessoas que tão
+trabalhando eh que estão estudando no fim do dia. É um ganho duplo, né? a gente enquanto instituição investe nesse
+tipo de iniciativa como uma forma de desenvolver o mercado pra gente contratar, né, essas pessoas mais
+preparadas no futuro, né, então plantar ali uma sementinha hoje pra gente colher
+ali no futuro próximo, pessoas mais preparadas que vão est eh sendo eh vão
+poder responder da melhor forma os desafios que a gente tem aqui dentro do banco e ao mesmo tempo eh as pessoas
+ganharem aí com o desenvolvimento, né, que a gente também pode e tem, né, uma
+grande fortaleza aqui dentro do banco também de especialistas, né, de pessoas referências no mercado. Eh, eu tô aqui
+do meu lado com dois feras aqui, né, de de tecnologia Free, Caio, né, eu sei que
+eles arrebentam, né, quando o assunto é tecnologia. E e isso não é diferente
+quando a gente olha pro lado assim aqui dentro do banco. Acho que isso é muito legal, assim, a gente trabalha com todos
+são muito competentes, né? Então dá essa vontade ali de aprender com outro, de se
+desenvolver com outro, eu acho que esse acaba sendo o grande posicionamento quando a gente fala do Itaú enquanto
+marca empregadora. É uma grande fortaleza, né, de aprendizado, né, de
+desenvolvimento e tudo mais. E eh essa conexão aqui com o bootcampilização
+para as pessoas daquilo que a gente vive aqui dentro do banco, assim, sabe?
+Show de bola. Obrigado demais, Artur. E eu vou aproveitar se que nossa audiência tá aumentando, então sejam muito
+bem-vindos. Compartilha quem chegou atrasado. Vai ficar gravado depois você pode ver a reprise aí, ver um pouco do
+que a gente conversou, mas estamos ainda começando, estamos esquentando os motores aqui. Seja bem-vindo, seja bem-vindo. E a gente não para de ver
+também a comunidade internacional aqui com a gente, né? Então, boa noite a partir de Angola. Obrigado, Afonso, por
+estar com a gente. Vi aqui também. Cadê? Cadê? Cadê? Cadê? Aquiantir Lenstein.
+0:15. É isso aí. já saiu na frente de Vaduso. Obrigado por tá por tá com a gente também. Eh, e tem mais gente,
+daqui a pouco eu puxo aqui, mas e aí a galera já falando, né? Rumo ao Itaú, ó lá, ó, rumo ao Itaú, como conseguir uma
+oportunidade no Itaú, a gente vai falar alguma, vamos falar um pouquinho daqui a pouco, né? Lá Silvana vai falar: "Meu
+sonho trabalhar no Itaú". Obrigado, Silvana, que tá com a gente e aí também a galera do Itaú, né? Orgulho em fazer
+parte. Obrigado Sérgio, por estar com a gente. Eu vi a galera mandando aqui. Super Priscila, o Arturzão, ó o Caião
+cara fera, galera aqui do Itaú também presente nessa noite brilhante aqui,
+trazendo cada vez mais oportunidades. E aí já o Itaú me contrata, então já vamos colocar uma hashtag aí, ó. Priscila me
+contrata. #priscilam mecontrata. Pode colocar aqui. Vamos ver se vai ser a
+hashtag vai liderar essa nossa noite aqui. Ô Caio, mas conta um pouquinho pra gente, né? ser, poxa, saiu como júnior,
+entrou como júnior no Itaú, começando a carreira numa das maiores empresas de de
+tecnologia do mundo. Como foi essa jornada? Tem bastante gente, já vi aqui, tô me informando, tô tentando fazer
+transição. Ó lá, a galera já mandando aqui, Já a hashtag já subiu aqui e a galera é
+criativo porque [risadas] a hashtag hashtag já subiu aqui. Mas como é que
+foi essa esse começo de jornada e o que contribuiu para você conquistar essa grande oportunidade? Obrigado. Cre
+perfeito. Só dando um complemento aqui, cara. O bacana do Itaú, que o Artur acabou comentando sobre bacana do Itaú
+aqui é que a gente ajuda a galera a se capacitar, né? Então, eh, toda a minha jornada, ela não não não foi só aqui
+dentro do Itaú, né? Não foi só ali, eh, sozinha, sabe? O pessoal aqui sempre
+busca pessoas como referência para aprender, olhar para fora, aprender também, mas trazer pra galera aqui de
+dentro também, sabe? Voltando ali pro começo da minha carreira, cara, eu entrei na na área de TI sem saber muita
+coisa, voltada à computação. Então, quem quem já vem com pensamento que, tipo,
+poxa, eu tenho que ter uma base para começar a aprender? Não, você, cara, tem a capacidade total de aprender ali,
+independentemente do nível que você tá começando. Então, isso é é uma coisa que eu senti na pele, sabe? Comecei ali em
+2022 a estudar eh a a área de tecnologia, acabei entrando no Itaú em
+2025, mas minha jornada ali envolveu não só estudo e tudo mais, mas também participar de comunidades tec,
+participar de bootcamps, participar de cursos de eh de coisas que envolvem ali
+eh estudo, conexão com as pessoas, sabe? Eh, como eu disse, acredito que grande parte ali do que eu aprendi até chegar
+onde eu tô hoje, eh, seja ali em posição como júnior, até para as pessoas que já estão uma serenidade maior, tudo isso
+envolve ali participar desse tipo de coisa, bootcamp, eh, curso, preparatório
+e tudo mais. Eh, e além de tudo também ter a constância ali nos estudos, tá? Então, eh, se fosse para definir ali
+minha jornada em tecnologia em uma palavra, seria constância, com certeza, tá? Porque não
+só constância nos estudos, mas também constância ali em est participando, em tá presente ali de fato na na
+comunidade, não só a comunidade tec, mas também ali para, enfim, caçar a vaga ali
+no mercado de trabalho, etc., sabe? Show de bola. E aí, assim, já ficou a
+dica do Caio aí, assim, conexão. Então, assim, já aproveita, adiciona a Priscila no LinkedIn assim que hashtag não parava
+aqui de subir a hashtag como conecta com o Artur também e o Caio no LinkedIn me
+conecta também, quem não tá conectado aí, são super bem-vindos e vamos para cima juntos transformar esse esse
+Brasilzão. E aí um dos pontos, Priscila, que a gente sempre fala é assim: a gente
+tem que entregar resultado de negócio, experiência pro cliente, transformação e conveniência. E tudo isso a gente faz
+através de tecnologia, né? Como que você vê essa jornada de olhar os dois
+ângulos, né? Você, poxa, você tem que pensar na melhor tecnologia para resolver um problema de negócio que
+muitas vezes é gerar mais conveniência, mais serviço e melhor experiência do cliente dentro de um super banco como
+Itaú. Obrigado. Legal.
+Acho que até pegando um pouco só do gancho ali do Caio aqui, acho que eu não falei quando me apresentei, mas eu tenho 31 anos de banco aqui, né? Eu entrei
+aqui como estagiária aqui dentro do banco e acho que esse ponto do Caio é super é super importante quando a gente fala aqui da constância e a gente não
+pode perder nunca a questão de estudar, né? É óbvio que a gente não consegue estar sempre antenado em tudo, né? não
+dá para saber de tudo, inclusive é um dos itens da cultura do banco, a gente não sabe de tudo, mas a constância sobre
+o estudo ela é super importante, até porque a tecnologia muda muito, né? Assim, acho que só para complementar
+aqui um pouquinho do que o do Faio trouxe, só para poder reforçar aqui os pontos que ele trouxe. E respondendo aqui sua pergunta, assim, acho que a
+tecnologia, como eu comentei na na resposta anterior, ela deixou de ser uma área de suporte, assim, ela e de suporte, acabou ela virando o centro da
+estratégia do negócio, né? Então, quando a gente fala aqui das mudanças de liderança que o banco teve também, né,
+quando a gente fala do Roberto, depois pro Cândido, depois pro Milton, é notório assim como o direcionamento
+estratégico do banco mudou e de como que a tecnologia fez muita diferença, né, nos direcionamentos, seja de eh de a
+gente evoluir, por exemplo, a nossa plataforma, quando a gente fala aqui paraa cloud, né, como a gente comentou aqui também um pouquinho, e de todo esse
+contexto de inovação que a gente tem hoje, né, com a própria IAI, por exemplo, que a gente lançou aqui recentemente, quando a gente fala aqui
+de inteligência, que é um contexto de inovação, mas que vem aqui de uma jornada, né, quando a gente fala do
+desse contexto de a gente de fato ter a melhor tecnologia. E quando a gente fala das experiências do cliente, assim,
+hoje, acho que o Artur falou isso um pouco aqui, a gente tem hoje um papel muito importante aqui nas comunidades,
+que no mercado geralmente se chama de tribos, eh quando a gente fala da nossa tríade que a gente fala aqui, né,
+participação do negócio, tecnologia e design, né? Então hoje não existe mais uma experiência lá longe, né? Não, quem
+pensa na experiência é o produto, quem pensa na experiência é o negócio, não. Quem pensa na experiência é esse esse
+essa tríade e ela é viabilizada por tecnologia hoje, assim. Então, eh, isso
+tá isso faz com que a gente de fato ofereça cada vez mais experiências uow aqui pro cliente, baseado nesse nessa
+tríade que decide, né, no contexto do dia a dia aqui pra gente poder dar melhor experiência. E além disso, assim,
+acho que a tecnologia, no passar do tempo, ela foi se provando que ela ajuda
+e muito a acelerar a capacidade de responder as mudanças do mercado, né? não só as necessidades do cliente, mas
+também a mudança do mercado. Eh, então, e eu falo que, por exemplo, o banco ele já usa inteligência artificial já faz
+mais de 10 anos quando a gente fala aqui de modelos de crédito, por exemplo. Só que quando a gente fala do contexto de
+como que isso evolui o nosso produto, eh, e de como a gente evolui a nossa estratégia, o nosso market share, também
+veio pelo contexto de tecnologia, né, que puxou toda essa via de inovação, eh, e de como que a gente tá incluindo, né,
+de maneira gradativa aqui, eh, essa questão da IA dentro dos processos dos nossos produtos, eh, com dados
+principalmente, né, assim, acho que isso é um ponto bastante importante para falar, né, assim, não dá pra gente viver
+uma jornada como essa se a gente não pensa em dados. E por isso que eu falo que essa jornada do IT, ela não começou hoje. Ela começou
+há 10 anos atrás, quando a gente pensou em levar paraa Cláudia, quando a gente pensou e numa governança de dados,
+quando a gente pensou na qualidade, a gente pensou ali em responsabilidade, a gente pensou em segurança, justamente
+pra gente poder chegar no momento de hoje, né, e tá entre as melhores empresas aqui para se trabalhar do mercado, a marca mais valiosa e assim
+por diante. Eu acho que um ponto importante também assim, o foco não é adotar a tecnologia
+para tecnologia, até porque a IA não resolve todos os problemas, a gente sabe disso. Ai, pera aí que meu microfone
+caiu aqui. É, até porque a gente sabe que a IA não resolve todos os problemas, assim, então não é o a tecnologia pela
+tecnologia, mas aquilo que vai gerar de fato valor para o negócio e pro cliente no final das contas. Então não é porque
+tem uma tecnologia nova que até a gente também vai sair usando. A gente experimenta, experimenta, eh, a gente
+faz o piloto com o cliente, fazemos, mas nem sempre é essa que vai ficar ali no final, dado aquilo que a gente quer
+gerar de valor. E eu acho que o impacto também acontece, né, assim, justamente quando a gente gera esta integração,
+como eu comentei. E de novo assim, né, de como que a gente eh a partir desta
+dessa da tecnologia como estratégia, habilitador de negócio, que é uma coisa que a gente leva bastante a sério aqui,
+a gente vai falar um pouquinho depois de como que a gente gera a sensação de confiança e de valor do cliente, muito
+baseada num ponto muito importante que é segurança. A gente vai falar daqui a pouquinho sobre isso.
+Show de bola. só aproveitar e fazer umamento aqui. Claro, um nem um complemento que a Pria
+ela ela arrasa e aí não precisa de complemento nenhum, mas eh é um destaque
+assim, o que eu mais gosto do Itaú é que ele é a combinação de duas coisas eh
+assim muito bacanas. é a solidez de um banco de mais de 100 anos de existência
+com eh a vontade de mudar e de se transformar que a gente tem. E isso vem
+se fazendo que o banco nunca seja o mesmo, né? Cada dia que a gente tá falando são várias áreas eh investindo,
+né, em coisas testando coisas novas e e enfim, eh, no fim do dia acaba sendo
+essa combinação desses dois mundos que forma o Itaú seu o maior banco da
+América Latina e uma das marcas mais valiosas eh eh no ponto de vista de
+negócio, uma das melhores empresas para se trabalhar, essa essa combinação é que dá a liga no fim do dia, sabe?
+Perfeito. Aqui complemento é super importante. Esse complemento é super importante,
+porque às vezes nossa, mas o banco tem 100 anos. É, mas a gente é 100 anos num corpinho de cinco. Tá bom assim? Eu
+sempre falo isso porque a gente tem nada no que tá acontecendo. A gente tá sempre
+querendo fazer diferente. Eh, e daí se eu puder dar uma dica, eu vi que gente, várias pessoas pediram dica aqui, gente.
+A dica é: Sejam curiosos, vão atrás, vão aprender coisas, se desafiem. Sabe isso,
+isso faz muita diferença aqui no contexto que a gente vive hoje. Legal. Mega inspiração. Você falou 31
+anos, você sabe. Eu trabalhei no Itaú 2007, não, 2002 acho que foi. Trabalhei no IT
+em 2002, acho que foi. Fazia integração de mainframe com o digital. Eu vi até que o pessoal mandou mainfame aqui e a
+barra era altíssima, né? Barra já era altíssima, altíssima. E acho que essa é a visão mesmo, super legal mesmo. E eu
+vim aqui, galera, já muito trabal muito tempo com main frame. Trabalhei muito tempo com main frame. Entrei trabalhando com frame, na
+verdade. Aí eu tô falando com, pô, [risadas] eu não trabalhei com main frame, cara.
+Aí a [limpando a garganta] gente faz integração. Você não tinha nem nascido, né, Caio? [risadas] Você não tinha nem nascido,
+Caio. Foi 2002. Não, eu sou de 2004. É, [risadas] então eu entrei aqui em 1995,
+Caio. Você tem noção? Entrei em 95 aqui no [risadas] Que massa, que massa. Já tava para nascer.
+Que massa. Eu vi aqui a galera compartilhando assim, só lembrando que o bootcamp já tá aberto, não tem concorrência de vagas. Enquanto tiver lá
+as 15.000 E o bolsa é só clicar, se registra, compartilha com o primo, com a
+vizinha, com o amigo, com a mãe. E poxa, sempre tem grandes oportunidades só
+[limpando a garganta] de você tá aqui nessa live aí aprendendo com a Priscila, com o Artur, com o Caio. Vão ter mentorias incríveis também para você
+aprender mais. se conecte e tenha grandes experiências nesse bootcamp, que é isso que o Itaú veio trazer para toda
+a comunidade. Queria aproveitar aqui, mandar um grande abraço, vi aqui o Diogo, né, Diogo, obrigado por tá com a
+gente. O Diogo compartilhando, entrei na área de TI através da Dio. Minha primeira vaga foi um banco, isso foi
+divisor de águas paraa minha família. Obrigado, Diio e blá. E a gente só consegue fazer porque empresas gigantes
+e pessoas gigantes como a Priscila, Artur, Caio estão sempre contribuindo com essa jornada e a gente só soma
+esforço. Então é a nossa soma que tá aqui para levar você uma grande experiência de aprendizado e quem sabe
+você se tornar um uma pessoa, um laranjinha também, assim, uma coisinha laranja ali no Itaú e tá junto com todo
+com todo o time. Ô ô, Artur. E aí já falando de entrar, né, assim, o pessoal tem muito essa expectativa de ter esse
+primeiro contato, entender os caminhos. Que que você pode contar pra gente sobre essa jornada de entrada, eh, de como
+entrar pro Itaú e e como que uma pessoa pode se diferenciar. Obrigado.
+Beleza. Vamos lá, gente. Eu acho que eh o legal do Itaú é que a gente tem várias
+portas assim, né? Várias oportunidades. Então, eu vi gente perguntando aqui no
+chat sobre vaga de estágio, temos eh vaga efetiva, temos vaga, programas de
+formação, temos eh eh programas focados, né, para quem quer seguir uma carreira
+mais acadêmica. também temos assim, então, eh, tem quero programa de trein,
+também temos assim, então, eh, assim, as as possibilidades são inúmeras, né? Acho
+que aqui, eh, eu acho que tudo a gente centraliza no quesito de oportunidade na
+nossa página de carreiras, né? Então, carreiras.com.br, pelo LinkedIn, pela GUP, né? vocês
+conseguem ali ter uma visão geral das oportunidades que estão rolando no banco. Mas eu acho que assim, uma coisa
+que eu que eu acabo comentando todo dia eh lá eu falo com inúmeros candidatos,
+pessoas falando assim: "Eu quero trabalhar no banco, Artur, como é que eu faço? O que que eu preciso fazer e tudo
+mais". Então, acho que primeiro é ficar de olho, né? O que que o banco tá buscando no fim do dia, assim, sabe? Eh,
+hoje eu entendo que eh estando do lado de cá, agora mais próximo da RH e tudo
+mais, né, que vem sempre da RH, mas estando do lado de cá, eu consigo perceber, gente, e daqui a pouco a
+Priscila pode me complementar, já que ela é uma gestora, né, de anos e anos de experiência, mas toda vez que uma vaga
+se abre, ela surgiu por um desafio, por uma dor que existe dentro do negócio,
+né? A vaga, ela foi aberta por eh ter uma oportunidade de crescimento eh de
+uma área, né, de de rentabilizar mais o negócio, de ser mais eficiente em alguma
+outra ponta. E essa essa dica implícita tá ali no descritivo de vaga. E você tem
+que entender ali o que que aquela vaga, o que que é esperado daquela vaga para além do descritivo, né? Eh, o o E aí
+entra um outro ponto, né? Eh, o descritivo ele tá ali para eh com balizador do que que é necessário você
+ter ali para cumprir com aquele desafio, cumprir com aquela dor que tem ali do negócio. Então, se eu tivesse que dar
+uma dica aqui para vocês, é, primeiro comecem a olhar um pouco dos descritivos de vaga que a gente tem aqui no Itaú e
+entendam quais são os principais pontos aqui que a gente tem eh que aparecem
+mais nossos descritivos de vaga. quando a gente fala de tecnologia aqui, né, e aqui a gente trabalha com inúmeras
+stacks, com inúmeras tecnologias e tudo mais, então não dá para eu ficar listando todas aqui aqui na agenda, mas
+assim, hoje a gente tem um cenário, como a Prienário
+de modernização aqui das nossas eh infraestruturas. Então, grande parte
+aqui eh do dos nossos sistemas, enfim, infraestruturas estão sendo migrados
+paraa nuvem. Então o conhecimento em cloud é mega importante e é por isso inclusive, né, que aí a parceria aqui
+com aio é focado também aqui em computação e nuvem, né, para que aí a
+gente possa eh no futuro, né, ter pessoas mais preparadas para que venham trabalhar aqui dentro do banco. Eh, um
+outro cenário, né, é ter ali conhecimentos de algumas linguagens aqui dentro do banco Java é uma uma
+linguagem, né, que é permeia aqui vários dos ambientes aqui de de tecnologia aqui
+dentro do Itaú, mas eu comentei aqui um pouco do técnico, né, e vê ali o descritivo e
+tudo mais, mas eu acho que tem algumas coisas que eh facilitam muito quando a
+gente busca currículos, né, e tá buscando and uma pessoa para resolver esse desafio que a gente tem quando uma
+vaga surge, que são pessoas que têm profundidade.
+E aí eu não tô falando às vezes de conhecimento técnico, né? Às vezes porque a pessoa às vezes é júnior, tão
+começando na área agora e tudo mais, mas é profundidade de curiosidade, é profundidade de ir a fundo ali naquele
+tema e tudo mais. Eh, eu vou dar vou dar o meu exemplo, tá gente? Eu não tô
+falando para ninguém seguir exatamente isso, mas vou dar um meu exemplo. Eu, quando eu fui entrar no banco, a minha
+gestora me chamou pro processo seletivo e ela me deu um case. Aí quando ela me deu o case, eu falei: "Não, pera aí que
+eu tenho que arrasar nesse case". E aí eu fui ler toda o relatório anual do
+Itaú para ver o que que o Itaú tinha feito nos últimos 5 anos. Fui ver todas as redes sociais, tava no site para
+entender um pouco mais sobre o que que é esse Itaú, né? para além do que tá escrito, para além do que tá ali na
+propaganda, né? Tem uma outra camada por trás que a gente precisa entender com mais profundidade. E é isso que
+realmente chama a atenção eh de perfis quando a gente eh chama para uma
+entrevista, quando a gente, né, conversa ali com algumas pessoas. Tem algumas pessoas que a gente parece que ela já tá
+aqui dentro, ela ela não parece que ela é uma profissional do mercado, ela parece que ela já tá aqui dentro. Então,
+acho que tem um pouco eh desse cenário assim, sabe? Mas sendo mais pragmático
+aqui quando a gente fala de processo seletivo, hoje a gente tem dois cenários, né? Então, a a gente divulga
+vagas pro mercado e aí as pessoas podem se inscrever ali na nossa página de carreiras, a gente chama pro processo
+seletivo, ou num outro cenário, a gente tem uma vaga aberta e a gente vai em busca de pessoas através do LinkedIn, de
+outras plataformas e chama ali para processo seletivo. E aí já fica a dica, né, gente? Pelo amor de Deus, vamos
+atualizar a GUP, vamos atualizar o LinkedIn, deixar ele bem completinho e tudo mais, porque aí não adianta, o
+recrutador ainda não tem bola de cristal, quem sabe com a IA, de repente ele ajuda ali um pouco, né? Mas se vocês
+escrevem ali um pouco das capacidades técnicas, das habilidades comportamentais de vocês e deixam isso
+claro, eh, fica difícil do recrutador encontrar vocês. Então, ser muito
+completo ali o perfil de vocês vai ajudar muito para que vocês tenham e ampliem a chance de vocês aqui. Depois
+disso, a gente começa aí numa etapa de entrevistas, né, com o recrutamento aqui
+do Itaú, que normalmente vai fazer uma avaliação de cultura, né, para que, né, que você avaliar se vocês têm um feed
+cultural aqui dentro do banco e aí vale vocês estudarem um pouco mais sobre a cultura, se se tem esse match aí com
+vocês e tudo mais. ao longo da agenda, o Caio foi falando alguns pilares, a Priscila foi falando outros pilares e
+daqui a pouco a gente vai falar mais e mais um pouco, porque no fim do dia eh,
+são muitos os pilares, né, que que a gente tem aqui. É uma coisa que a gente fala todos os dias. Eh, e depois
+eventualmente, dependendo da posição, pode ter algum tipo de teste, pode ser um teste técnico, pode ser um live case,
+pode ser. Então, depende aqui da vaga, né? Como eu comentei, são muitas portas que a gente tem aqui de de oportunidade,
+então pode ter ali algum tipo de teste, mas aí ao longo do processo, né, no
+desde a partida vocês já ficam sabendo ali de quais são as etapas que você tem para cada um dos processos, tá bom?
+Show de bola. Super bem posicionado, obrigado demais. Eu vi aqui a galera já
+começando a mandar algumas perguntas. Fiquem à vontade. Vou fazer mais uma pergunta com o Caio e a gente já vai selecionar algumas aqui pra gente
+trocar. Já consolidei algumas aqui na na cabeça. Mas só complementando também o Artur, uma das coisas que a gente fala
+muito para paraa nossa comunidade é brilham os olhos. Então eu sei que procurar emprego, às vezes você tá lá
+meio super preocupado, preocupada, mas poxa, no do outro lado também a pessoa
+quer ver inspiração. Essa questão do que o Artur falou de estudar o relatório,
+estuda quais são, qual a cultura esse o fit cultural faz muita diferença. Então
+se tem inovação no banco, faz parte da cultura, como seu currículo transborda inovação e você fala as coisas que você
+tá estudando pro futuro? Então, acho que esses são detalhes aí que o Artur compartilhou. Incrível. Obrigado demais,
+Artur. Ô, Caio, e aí, geralmente quando a gente tá começando a fica à vontade.
+É, eu eu só queria fazer um complemento só porque aí a gente vai sair aqui do da esfera de processo seletivo e e eu sei
+que surgiram alguns alguns comentários aqui falando da GAP e tudo mais. Eu acho
+que vale a gente comentar rapidamente sobre isso, porque eh assim, e aí é é é
+polêmico esse tema, mas eu acho que vale a gente comentar. A gap no final tem quem ame e tem quem odeie, né? E eu vi
+aqui os comentários aqui um pouco de vocês. No final do dia, gente, eu quero deixar um recado importante aqui para
+vocês. A GP hoje é a principal plataforma do Brasil de recrutamento.
+Então, é mais fácil a gente amar do que odiar, porque ali tem uma concentração muito grande de oportunidades e de
+empresas presentes, inclusive o Itaú, né? Eh, mas aí eu acho que o recado que
+eu tenho que eh para dar é puxando o gancho que eu acabei de comentar com vocês sobre profundidade.
+Eh, além disso, né, de conhecer sobre a empresa e tudo mais, participar do processo seletivo também envolve de ter
+profundidade, inclusive sobre os sistemas que tem de recrutamento. Eu, por exemplo, outro dia eu passei uma
+tarde lendo a central de ajuda da GAMP para entender como que era o algoritmo
+da GAMP. Não sei se vocês estão em busca de uma oportunidade, eu faria o mesmo
+exercício. Eu descobri algumas coisas incríveis, né, falando que tem uma priorização ali pela experiência, né,
+pela parte acadêmica e tudo mais, mas tem outros outros pontos que são levados em consideração e que vale vocês terem
+em mente na hora que vocês forem estudar ali, né, e pensar em participar eh de
+uma de um processo seletivo. A Gap não elimina ninguém, né? Então, ela ela eh
+todas as as candidaturas ficam disponíveis pros recrutadores. Eh,
+sempre a qualquer momento a gente consegue ver ali a as candidaturas de vocês. Então, assim, eh, no fim do dia,
+meu minha dica para vocês é melhor ter como amiga e para que vocês ampliem a
+chance de vocês do que a inimiga e aí fechar a porta ali para oportunidades incríveis que vocês podem ter ali de
+carreira, tá bom? Só vou não bem comentário não, não foi incrível. Eu
+também vou vou fazer um comentário para ele ser que a Priscila quer puxar também fazer o comentário. Mas é assim, que que a gente que que a gente fala assim,
+o protagonismo ele é muito importante. Não terceirize paraa plataforma A, B, C, D ou F, sabe assim? Qual que é o seu
+protagonismo? Então tem empresas que sim usam essa plataforma, mas também tem
+programas de recomendação dos próprios funcionários, que eles ganham bônus se eles trazerem pessoas incríveis para
+trabalhar junto da empresa. Então assim, não é um único caminho. Então assim, não deleguem o protagonismo seu para uma
+plataforma, estudem, deixa eu entender como funciona essa plataforma. ela entende, tem outra plataforma que também
+tem problema, todas têm, mas no final é se conectem com gente, faça parte da comunidade, transbor inspiração,
+compartilha conteúdo, sabe? Esteja ativo, esteja em movimento. A gente brinca aqui que eu eu eu junto com o
+nosso time aqui de vendas, a gente tá sempre na rua, a gente tá toda hora sendo demitido por um que não aceita uma proposta e faz parte. E um sistema não
+funciona, o outro no sistema. Aí você sempre tem que falar, cara, esteja em movimento. Então, nunca delegue sua carreira, nunca encontre um caminho. Se
+a plataforma A não funciona, B funciona. Se o caminho C não funciona, o D funciona. Sempre busque. E é essa
+vontade é o que faz diferença na jornada. Fica à vontade, Sil. Não, eu só ia complementar a fala aqui
+do Artur aqui. O pessoal também falou bastante coisa aqui do LinkedIn. Daí Artur me complementa aqui se eu esquecer
+de alguma coisa. Eh, gente, hoje em dia assim, eh, o LinkedIn, entre aspas, aqui
+é é o CV que a gente entregava de porta em porta, né? Então, assim, então hoje todo o processo aqui, quando a gente
+fala aqui de tecnologia, o LinkedIn também esta, é o nosso currículo hoje em
+dia. Então, eh, muitas vezes assim, por eu como gestora, quando eu vou contratar
+alguém, eu também busco algumas pessoas pelo LinkedIn. Baseado em quê? um pouco daquilo que o Artur falou: "Poxa, deixa
+eu ver a experiência da pessoa, deixa eu ver eh eh com o que que ele tá trabalhando hoje, quais são as
+linguagens que ele conhece, quais são as competências que ele tá trazendo, que ele tem. E eu falo por mim assim, acho
+que também outra coisa que eu dou de dica aqui, tem vários gestores do Itaú e eu falo que eu sou uma delas, que
+divulgam vagas no LinkedIn. Eu divulguei algumas vagas aqui a semana passada retrasada, eh, e eu contratei duas
+pessoas que se candidataram pela pelo meu perfil do LinkedIn, participaram do processo, fizeram ali o case e foram
+chamadas aqui por uma vaga que eu divulguei pelo LinkedIn. Eh, então assim, então acho que acho que pegando
+aqui, reforçando aqui, acho que a gente de fato tem que ser protagonista, né? Eh, eh, eu até vi aqui alguns
+comentários aqui. Eu quando eu entrei aqui no banco estagiária, assim, eu não tinha vida ganha. Meu pai e minha mãe
+trabalhavam na roça. Eu trabalhei, estudei em escola pública, assim, uma parte, uma parte estudei numa escola
+particular, sim, porque eu também ganhei bolsa também para fazer esse estudo, então também foi por mérito meu de
+protagonismo. Eh, então assim, então a gente vai buscando aquilo que a gente quer pra gente no final das contas, né?
+Então, acho que esse ponto da tur aqui da questão de uma empresa de
+tecnologia como o Itaú, que ele deixou de ser banco, virou uma empresa de tecnologia de verdade, a gente precisa
+de pessoas que sejam protagonistas, que queiram trabalhar com uma mente colaborativa, uma mente disuba, uma
+mente inovativa, eh que busquem alternativas, porque problemas, gente, a
+gente tem em vários aspectos aqui. A GP tem os seus defeitos, tem, como eu
+também tenho os meus, o Artur também tem os deles e outras ferramentas também t problemas, mas no final das contas
+assim, o que que eu vou fazer diferente no de fato para que eu possa ser vista também de uma maneira diferente, né?
+Então assim, então o o que a gente tá buscando, né? Eu acho que um outro ponto também para deixar claro, o Itaú não tem
+discriminação nem de gênero, nem de idade, nem de raça, nem de nada assim.
+Então sim, eu mesmo já contratei pessoas com mais de 40 anos. Então assim, então isso não é um problema. Eu acho que tudo
+isso equivale ao quê? A competência técnica, né? Os soft skills que a gente tá falando aqui. Então é menos sobre as
+condições e mais sobre de fato a aderência e o fit que tem com a vaga. E o Artur deu dicas valiosíssimas para
+vocês. Estudem o contexto do Itaú, estudem as descrições da vaga, porque ela já tem bastante dica daquilo que a
+gente tá falando, daquilo que a gente espera das pessoas para estarem aqui dentro com a gente, tá? É, você sabe que tem um lance muito
+louco assim, né? Vou compartilhar um um exemplo nosso aqui e e acho que isso acontece muito, né? As empresas elas,
+não sei se tem no Taú, até fica à vontade se puder ou não puder compartilhar, mas eu trabalhei em várias empresas como HP, EDS, eh, e mesmo em
+outras empresas que eu passei e outros clientes nossos, eles têm, por exemplo, o programa de recomendação. Você nunca
+vai recomendar uma pessoa ruim. você não recomenda, porque é pessoa ruim, você nunca vai dar oportunidade para ela. E as empresas sabem disso, que você não
+vai queimar a a sua a autoridade para trazer uma pessoa. E aí isso tem muito a
+ver com networking, isso tem muito a ver com conexão. Esse é um caminho de entrada muitas das empresas como, ah,
+quero trabalhar no Itaú, mas quantas pessoas do Itaú você conhece? Quero trabalhar na empresa X. Quantas pessoas da empresa X você conhece? Você vai
+naquele evento que a empresa tá proporcionando, você vai numa palestra da Priscila lá e depois fala no LinkedIn
+o que aprendeu, marca ela. Poxa, Pri foi incrível palestra assim, tem que tá em movimento. Tem que tá em movimento. A
+gente tem uma história aqui muito legal que nosso primeiro programa de aceleração, sei lá, tinha mais de 10.000 1000 empresas eh nos Estados Unidos lá
+para receber, tinha, sei lá, cinco vagas no para o investimento. E poxa, eu peguei, fui lá, sentei, conheci o
+pessoal, comecei a participar de de eventos lá, comecei a conhecer o pessoal e aí o cara falou: "Poxa, eu vou tirar
+sua folha aqui do fundo, eu vou vem cá, quero te entrevistar". A gente passou por um processo marrento, mas se você não te aparece, você nunca vai ser visto
+pelas pessoas e você vai estar num processo normal onde tem 5.000 candidatos, 15.000 1000 candidatos,
+30.000 candidatos. Então esse protagonismo ele é muito importante, que não é sobre o QI, quem indica, é sobre o
+seu protagonismo de conquistar o seu espaço e mostrar o seu valor, diferente do que as pessoas fazem, que é pegar um
+currículo único e mandar para 50 empresas e ficar esperando que a empresa venha chamar e que isso vai cair do céu
+e não vai. Então acho que esse é o que a gente tem. Já conectou mais de 50.000 pessoas aqui com empresas no Brasil,
+Estados Unidos, eh Europa e Oriente Média. E essa foi a diferença que a gente viu. As pessoas acharam caminhos
+diferentes e foram construindo relacionamento na comunidade. E hoje na comunidade às vezes o pessoal tá
+trocando ideia de repente fala: "Poxa, eu vi, gostei de você, me manda o seu currículo que eu vou te indicar aqui." Às vezes nem entra pelo pela plataforma
+A, B, CD e nem pela Talent Mat da Dios, a própria comunidade se relaciona, né?
+Mas é isso, assim, acho que essa esse é o grande desafio, né? Eh, ô Caiô, e aí falando um pouquinho, cara, até me pre
+aqui no nosso no nosso roteiro, falar um pouquinho de de insegurança,
+né? Eu perguntei para você já ou não? Como foi sua Perfeito, como foi como foi a sua Como foi a sua
+jornada de entrada? A gente sempre tá no começo de carreira muito inseguro, preocupado, mas o que que você gostaria
+de ter ouvido de alguém que acho que esse é um pouco do papo aqui também, né? Perfeito, cara. Igá, a gente pode até
+perceber isso. Eu pelo menos participo de comunidades tec e tudo mais direto. Eu vejo muita pessoa com insegurança em
+relação as vagas de hoje em dia, no sentido de tipo, poxa, vaga de tecnologia hoje pede que eu saiba cloud,
+uma linguagem, um framework, uma IA, mais três linguagens. Cara, é o seguinte, o que acontece hoje no Itaú,
+por exemplo, nossa conversa rodeou em cima disso também. Hoje a gente trabalha com três frentes. Vamos colocar aqui. A
+gente trabalha com uma tecnologia específica que você vai criar o o algum sistema, algum projeto aqui dentro do
+banco. A gente tem hoje um investimento forte em cloud voltado paraa WS. E a gente tem hoje agora, né, vindo agora
+2025/2026, investimento forte em A. Então, eh, se a gente tem, eh, esse conjunto de
+tecnologias, de coisas para usar dentro do banco hoje e alguma tecnologia, alguma empresa X, Y, Z também, vai ser
+demandado isso de fato, porque é o que a gente precisa aqui pro para que o profissional esteja trabalhando, etc., né? Em cima da das tecnologias que a
+gente provei para ele. Então, acho que isso é uma sensação que todo mundo tem cada ano que passa. Então hoje o
+profissional que tá numa senioridade ali, vou colocar ali, de senior em 2000, que entrou como sênior em 2015, é
+diferente do da pessoa que vai entrar como sor 2025, 2026, 2027 e vai mudando.
+É assim, a tecnologia sempre foi assim. Se não fosse assim, a gente estaria perfurando metal até hoje. Então, é é
+dessa forma que funciona. Eh, a gente realmente tem que se adaptar e isso entra muito na primeira coisa que a
+gente comentou, né, que é a constância nos estudos. Então, eh, não só constância, mas também tá continuamente
+ali, eh, antenado no que vem de tecnologia nova, etc. você não precisa ficar o tempo todo ali olhando
+tecnologia, até porque se você ficar olhando o tempo todo tecnologia, você fica você fica doido. Mas a a questão é
+a seguinte, eh sempre olhar para fora, independentemente se você já tá empregado ou não, e na área de
+tecnologia, eh entender o que o mercado demanda é importante, essencial, mas principalmente se você tá buscando vaga
+agora, você olhar para as vagas e falar: "Opa, a vaga tá pedindo X YZ". Para eu trabalhar, para eu ser capacidade, para
+eu ter capacidade de estar eh aderente a essa vaga, eu tenho que estudar XYZ. Então, bora lá estudar. E é natural que
+a gente olhe e fale: "Putz, cara, ano passado a gente tava estudando tal, eu tava estudando tal coisa e hoje, esse
+ano agora o pessoal tá pedindo mais coisa". Sim, isso é natural, a gente tem que se adaptar. E por isso que aqui
+entra muito a questão do estudo contínuo e da constância nos estudos. A gente não vai parar de estudar, principalmente na arte tecnologia. E sempre foi assim e é
+assim que funciona, sabe? Outro ponto também de insegurança é que o pessoal, que vocês falaram agora a pouco também,
+o pessoal acredita muito que tudo é só o que indica, né? o QI, famoso QI. Eh, o
+importante, o ideal, né, aqui é a gente tá realmente antenado ali a eventos, eh,
+a a trilhas novas, a boot boot camps como esse. Eu tenho até um amigo que ele
+participou de um boot campio anteriormente. Ele entrou numa consultoria justamente por participar de bootcamp. Então assim, eh, capacitações
+não são só pra gente aprender algo, eh, alguma tecnologia nova, mas também pra
+gente fazer conexões e ganhar oportunidades. Então, a gente não pode estar na nossa zona de conforto, a gente tem que sair da nossa zona de conforto.
+Inclusive, vou dar um exemplo, eu mesmo, eu eu saio da minha zona de conforto para est aqui falando em público e tudo
+mais. Acredito que não só eu, mas também o Artur, a Priscila, até mesmo o o próprio Iglá, né, para tá falando aqui.
+Então, eh, é muito disso. A gente sai da nossa zona de conforto, fazer conexão, conhecer pessoas, cara, é essencial,
+principalmente na nossa área, principalmente se você tá tendo essa sensação de de que você tá preso, cara, vai conversar com pessoas da área por
+fora, trocar ideia com o pessoal, porque isso é importante, sabe? Eh, até para
+você ficar antenado e também se divertir no processo. Isso, poxa, é uma das coisas mais divertidas da nossa área,
+que a gente se ajuda, a gente tem comunidades ali espalhadas, a gente tem bootcamps como esse, trilhas, enfim,
+muito importante a gente tá sempre ativo aí também na nas comunidades. Não, show de bola. Que mega
+inspirinador. Eu vou pegar algumas perguntas aqui do pessoal, eu vou consolidar algumas, né? E aí, fica à
+vontade, free eh, tour cai, fica à vontade de quem quiser responder. Mas h
+tem bastante gente aqui que tá em migração de carreira, né? Acho que a gente tem dois extremos, assim, pessoal que tá entrando no mercado que fala:
+"Poxa, mas não tem oportunidade eh para eu que tô começar indo da faculdade." Depois quem tem mais de 40 fala assim:
+"Poxa, para eu que já tenho minha experiência, eh, não tenho oportunidade".
+Vamos falar primeiro do primeiro do do lado quem tem mais de 40 migrando de carreira. Como que vocês vêm, como que
+vocês têm visto acontecer no Itaú e como que vocês podem, o que vocês podem compartilhar com a gente aqui com a
+audiência. Obrigado. Posso começar aqui? Artur vai lá, abri,
+por favor. [limpando a garganta] Eu acho que acho que uma dica que eu dou aqui, acho que até pegando um pouco do que o Caio trouxe, assim, a gente tem
+várias comunidades hoje abertas no mercado, assim, tá bom? assim. Então, tem mulheres de produto, por exemplo,
+tem comunidade de dev, tem como comunidade de de quem é fã de Java, de
+quem é fã da WS, eh eh tem comunidades de meninas mesmo, por exemplo, o
+programa Maria, tem várias comunidades, falando de mulher aqui, porque eu também sou embaixadora de gênero aqui no Itaú e
+eu participo de grande parte dessas comunidades de mulheres, inclusive e grande parte dessas comunidades, assim,
+elas ajudam várias pessoas que estão nesse processo de transição, inclusive nesta idade que o Igá trouxe aqui. aqui
+e eu já vi várias meninas que eu já dei mentoria inclusive conseguirem sim se
+realocar em contexto de tecnologia independente da idade da experiência
+anterior, tá bom? Então, vou dar um exemplo recente aqui, eh, que eu tava mentorando algumas pessoas aqui de de
+produtos e eu já vi gente que era arquiteta, que é que fazia logística e
+que tava ali estudando ali para C PM, né, que é a parte de produz vagas aqui
+no Itaú também, que é a parte de produtos. Eh, e entraram nessa nessa comunidade de produtos justamente para
+aprender. E o que que é o aprender? Daí eu vou pegar aqui um pouco do que o Caio trouxe aqui, né? é de fato ir atrás
+assim, poxa, o que que é ser um PM? O que que eu tenho que aprender? Quais são as capacidades técnicas desse papel? Que
+soft skills eu tenho que ter para ter este papel? Eu acho que além disso também assim são as interações. Assim,
+eu tô conversando com as pessoas que têm esse tipo de experiência para me ajudar eu me preparar melhor para esta dica. E
+tem outras coisas também que eh a gente também tem que investir tempo, né? Eh, pra gente poder estudar, né? assim, acho
+que não sei se foi o Artur ou Caio que trouxeram, tem coisas que não vão cair lá mesmo, né? Assim, se a gente não for
+atrás para estudar, não organizar nosso tempo para estudar, a gente não vai conseguir, né? Assim, de fato, tá no
+nível que a gente precisa para concorrer a alguma posição, independente de qual seja, seja do nível desenvolvedor, seja
+de produto, seja uma coisa mais eh relacionada a projeto, ao planejamento, porque eu falo que a tecnologia ela tem
+vários papéis embutidos, né? Às vezes o pessoal acha que tecnologia é só para quem desenvolve e tecnologia não é só
+para quem desenvolve. Eu tô num contexto de desenvolvimento, caiu também, mas a gente tem outros outros papéis aqui
+dentro de tecnologia, além de dev, né, assim, que precisam também de um contexto de tecnologia para poder eh
+olhar. Então, acho que a dica que eu dou é assim: Se conecte com comunidades que tem várias de todos os tipos e e nessas
+comunidades elas trazem várias dicas, tem pessoas que dão mentoria, ajudam essas pessoas dentro do contexto de de
+transição. É, e assim, eu já ajudei várias, né, pessoas que me às vezes me procuram no LinkedIn aqui para poder
+ajudar e dar dicas. É, o que não pode é não ter o protagonismo e a atitude de
+querer aprender e fazer diferente. Eh, meu meu time anterior, que eu mudei de time agora faz três meses, eh, por
+exemplo, eu tinha uma pessoa que era PM e a formação dela era linguística, nada a ver com tecnologia. Eu tinha uma dev
+lá no time que veio lá da da escola 42 e ela era arquiteta. E hoje e tá voando
+aqui na área de tecnologia aqui, né? E não é novinha, tá bom? Assim, já tinha passado ali dos 35 também, tá? Então
+assim, mas ela foi atrás, foi buscar uma questão de conhecimento justamente porque ela queria mudar o rumo da vida
+dela, né? Então acho que também eu dou essas dicas aqui do quanto a gente quer de fato mudar o rumo e no fim a
+responsabilidade do mudança de rumo tá na nossa mão no final das contas.
+Eh, e aí fazendo um complemento aqui com, eu acho que aqui quando a gente olha
+para aspecto de recrutamento em si, todo o recrutamento que a gente tem dentro do
+banco e a gente orienta muito os gestores, né, as equipes aqui para para
+que tenham esse olhar, é um recrutamento baseado em habilidades, em competências,
+né, da gente conseguir observar isso no currículo, no momento de entrevista, no
+momento de teste de momento de case, né? Então tudo é baseado de quais são as
+habilidades que aquela vaga, né, aquele desafio exige e como que a gente
+encontra pessoas que tenham aquelas habilidades que possam aportar eh com aquele cenário, com aquele desafio.
+E aí quando eh eh eu sei do cenário de frustração
+das pessoas que estão fazendo transição, não é uma jornada fácil. Eu acho que esse é um é um primeiro ponto que a
+gente tem que reconhecer. É uma jornada dura, não é? Ela não é fácil, né, pra maioria das pessoas. Então, ter essa
+consciência de partida que não vai ser fácil, que eh eu vou precisar me dedicar, vai ser exigente, em alguns
+momentos vai ser frustrante, mas eu vou vou vou persistir e tudo. Mas é é um primeiro eh ponto, mas eh a gente não
+pode esquecer que as habilidades elas são transferíveis, ou seja, de um
+desafio pro outro eu trago da minha bagagem tudo aquilo que eu já construí
+do ponto de vista de habilidades. Pode ser que tecnicamente, pro que você quer
+eh para esse novo desafio em tecnologia, talvez você não tenha um grande aproveitamento, mas em soft skills, em
+habilidades comportamentais, você já avançou muito do que outras pessoas que
+vão começar eventualmente agora na carreira. Então, trazer isso num num
+contexto, né, de eh de uma busca de uma nova oportunidade, ressaltar todas essas
+habilidades comportamentais que você já adquiriu. Putz, isso é um baita de um
+diferencial e vai fazer você ir muito ir longe, rapidamente. É claro, né? É a
+combinação das duas coisas, o técnico com o comportamental. Mas o comportamental você já vai trazer de
+outras experiências, de outras carreiras que você passou. E isso vai facilitar aí muito esse processo aí de migração, não
+esquecer que tem esse ponto vai facilitar muito as coisas.
+Show de bola. E o John comentou aqui, acho que muito legal isso, né? É preciso entrar no desconforto, né? Eu acho que
+estar a todo momento desconfortável e encontrando alternativas para solucionar
+o problema, no final é o que as empresas buscam também, porque a hora que você vai para uma grande empresa inovadora
+com Itaú, você vai ter diferentes desafios e o time Itaú quer trabalhar com pessoas que estejam no desconforto,
+achando potenciais soluções a todo momento ali com tecnologia, não. Super inspirador, super mesmo. galera já
+falando, pô, inspirador, mega inspirador e muita gente se identificando aqui também com com essas características. E
+aí do outro lado a gente tem um pouco, fica à vontade. E clar, eu ia só tirar uma dúvida de uma
+pessoa que é é é bom, né, aproveitar aqui o momento. Eh,
+[limpando a garganta] o eu acho que a Iodra fez uma pergunta se existe a possibilidade de conseguir
+ingressar eh eventualmente, né, sem o nível superior aqui, né, se tem algum
+requisito mínimo para trabalhar dentro do banco. E hoje a gente não tem um requisito eh universitário, né, para
+vagas e efetivas, né, vagas CLT aqui dentro do banco. Quando a gente olha
+programas específicos, né, aí elas têm regras específicas. Então, o programa de estágio tem que tá estudando, fazendo
+faculdade, o programa de traini é focado em recémformados. Então, quando a gente olha para programas, tem ali, né, aí é
+muito claro ali quais são os requisitos, mas vagas, né, SLTs, né, vagas efetivas
+aqui dentro do banco, a gente não tem aqui o requisito mínimo do curso universitário. Então, eh, é muito
+tranquilo para eventualmente eh vocês eh entrarem no banco, por exemplo, com as
+várias e várias formações que tem aqui na DIO, assim, sabe? Então, tendo a competência, eh, né, cumprindo ali com
+os requisitos que tem ali dentro da vaga, os conhecimentos para resolver esse desafio que, eh, fomentou a criação
+dessa dessa posição, né, já é juntar a fome com a vontade de conversa, sabe?
+Então, eh, já estão dentro aqui do maior banco da América Latina, mas esse não é um requisito que a gente tem hoje, tá
+boa, show de bola. Ó, o e o dev pailosk. compartilhou aqui. Obrigado por estar
+com a gente nessa noite. Ela compartilhou aqui. Eu faço parte de uma comunidade chamada Sisterstech e foi por lá que soube do but. Uma comunidade
+muito ativa e muito boa mesmo. Acho que é muito legal. Acho que
+conhece? Conheço. Uma iniciativa voltada para mulheres na área de tecnologia, cara.
+Bem, bem bacana essa comunidade. É isso. Eu acho que esses são caminhos, assim, estar em movimento é o principal
+foco nosso do dia a dia, aprender com as pessoas que, e assim, a gente fala, né? Sempre tem alguém que tá na sua frente,
+você tem que aprender. E sempre tem alguém que tá atrás de você, você tem que estender a mão para trazer essa pessoa. Esse un win, esse give back que
+a gente faz sempre, que a gente fala sempre, é o que faz essa roda movimentar. Ô, e aí vocês aí falando do
+outro lado, né? Hoje a gente vê também muita gente começando carreira ali 18,
+19, 20, 21, que tá numa faculdade que de repente tá preocupado, saindo aí, ela
+vai substituir, não vai substituir, que que eu tenho que entrar, como é que eu me arrumo, aonde que eu me qual eu faço
+estágio, tem vaga de júnior, como que vocês vêm também essa construção de oportunidades para quem também não tem
+experiência e tá dando o primeiro passo no mercado de trabalho. Tô juntando um pouco, juntando outro a
+outra parte. Vou vou deixar o Caio começar que eu acho que ele já ele tá no dia a dia, ele
+fala muito sobre isso e ao mesmo tempo, né, talvez foi o mais recente aqui de nós nesse um pouco nesse cenário assim.
+Sim, cara, eu peguei, eu peguei ali a fase que o pessoal começou a comentar, né, quando o chat PT tava começando ali
+entregar umas respostas boas pra gente, eh, e o pessoal já comentava, né, sobre área de programação, área de tecnologia,
+já era, tudo mais. E, cara, assim, até voltando um pouco, se a gente pensasse
+dessa forma, todas as vezes que chegou algo de subitivo pro mercado, uma nova tecnologia, a gente ainda estaria
+furando placa de metal para programar, sabe? Então assim, eh, a IA ela vem para
+nós não como um, aí entra muito naquela questão de insegurança, né, para entrar no mercado de tecnologia. Aí ela vem
+para nós aqui para facilitar o trabalho e dar foco a outras coisas do nosso dia a dia. Então a gente não tem ali mais o
+o foco de escrever código, por exemplo, porque isso acaba acaba sendo pra gente
+eh não o foco principal e não que você não precise saber mais programar, não. Você tem que saber o que tá sendo feito
+no código, até porque no final do dia quem vai estar subindo o código paraa produção é você. Você tem que saber
+validar, você tem que saber usar IA e acima de tudo entender o que que ela fez, sabe?
+Então, eh, se você tá preocupado ali com a questão da, eu foquei muito na IA, mas, cara, se você tá preocupado com a
+questão da IA, eh, ela te substitui de certa forma, de alguma maneira, não é assim que funciona na área de
+tecnologia. A gente só muda o foco mesmo. É direcionado para outro caminho. A gente começa a olhar para coisas mais
+macro ou talvez a gente olhe mais para performance, talvez não em uma aplicação, mas para três. E é assim que
+funciona. E de novo, a gente evolui na área de tecnologia há um tempo, sabe?
+Eh, mesmo antes de eu começar a estudar, eu já entrei sabendo disso. Sabia que tecnologia mudava o tempo todo. Eh, a
+gente vai ter que estudar ali continuamente. É, é isso, cara. Acho que a palavra que mais usamos aqui é
+constância, né, [risadas] em relação aos estudos. Mas no final do dia é isso.
+Show de bola. É uma coisa que eu falo assim, pode pode falar também assim, o Júnior ele, a pessoa júnior foi mudando
+ao longo do tempo, assim, quando a gente começou a programar, nossa, não tinha ideia, né? Você era na unha ali. Depois
+eu eu fui web, eu programei para MF, assim, foi e foi mudando e é mais uma
+mudança de amplificação, né? Como que você vê, fri, essa jornada?
+É, eu acho que pegando aqui o ponto que o Car trouxe que é super importante assim, é menos sobre a IA fazer o nosso
+trabalho, mas de como que ela facilita o nosso dia a dia. Aqui a gente foque naquilo que é mais importante, né? Então
+eu falo que, entre aspas, né, assim, a inteligência ela sai da ponta dos dedos, né, assim, vai justamente para
+questionar aquilo que é melhor pro negócio, aquilo que vai ser melhor para atender o nosso cliente e de como que eu
+acelero essa entrega pro cliente, né, assim. Então, por isso que eu sempre costumo falar que a inteligência artificial é uma extensão da nossa
+inteligência, né, assim, porque tudo aquilo que eu sei, que eu aprendi de fundamentos, seja de engenharia de
+software, seja de contexto de produto que eu tenho ou de negócio, vai ajudar ser um acelerador ali naquilo que eu
+preciso entregar, até pra gente poder gerar ali a a satisfação ali que o cliente precisa ali, né, e de maneira
+rápida no final das contas. Eu acho que um outro ponto aqui para para complementar o Caio, eh, eu acho que a
+gente não pode ter medo, né, no final das contas, né? Eh, eu sempre falo que assim, né, eh, acho que o Caio trouxe
+aqui, né, algumas algumas inseguranças que as pessoas têm na hora de se inscrever nas vagas. E eu vejo muito
+isso com as meninas que eu dou a mentoria. Eh, às vezes menina quando vê uma coisa que não sabe, ela já não se inscreve na vaga porque ela não sabe uma
+coisa, né? E às vezes, assim, o que eu costumo dizer é assim, a gente eh a
+gente às vezes tem que ser um pouco mais ousado, um pouco mais corajosa. Eu quando entrei aqui no Banco estagiário, eu não sabia nada, nada do que eu sei
+hoje. Nada, absolutamente nada. Inclusive, na minha entrevista do estágio foi péssima. E acho que o que
+mais me levou a estar aqui hoje foi de fato o quê? a minha a minha curiosidade,
+a minha mentalidade de de fazer coisa diferente, o meu protagonismo, né, de como que eu quero, de fato, tinha
+vontade de fazer as coisas diferentes do que simplesmente pela minha questão técnica, né? Porque até porque eu era
+estagiária, né, no final das contas quando eu entrei aqui, né? E e assim, esse ponto da constância eu vou reforçar
+aqui, né, assim, a gente precisa ter a constância, seja daquilo que a gente estuda, seja daquilo que a gente entrega, seja daquilo que a gente faz. E
+eu sempre costumo dar falar pras meninas, gente, põe a fralda e vai comer mesmo, entendeu? Assim, porque tem hora
+que a gente tem que enfrentar sobre isso, né, assim, porque a gente não vai saber de tudo nunca. E não tô falando só
+para entrar aqui no Itaú ou qualquer outra empresa, mas também na nossa vida também no final das contas, né, assim, a
+nossa vida muda todo dia. Única certeza que a gente tem que tudo vai mudar, né, assim, e a gente tem que lidar e assim e
+esse contexto de adaptabilidade, de resiliência, ele faz parte do contexto também na área
+de tecnologia, mas também na nossa vida. Então, se a gente fazer uma relação aqui daquilo que a gente vive, ficou no
+escuro aí, Caio, daquilo que a gente vive e daquilo que a gente de fato precisa aprender, a gente precisa de
+fato ter esta resiliência pra gente se reinventar todo dia, né? Então, mais
+carregado, sim, do protagonismo, da curiosidade, da capacidade de de adaptação,
+da colaboração, de pedir ajuda. Às vezes as pessoas têm vergonha de pedir ajuda, né? Eu sempre falo que pedir ajuda não é
+sinal de vergonha, é um sinal de coragem, porque a gente quer fazer diferente, a gente quer aprender, a
+gente quer gerar impacto diferente, porque alguma coisa eu quero fazer diferente. Por isso que eu tô pedindo
+ajuda no final das contas, né? E hoje em dia eu não tinha Iá na minha época, gente, assim, quem me dera ter tido Iá
+na minha época, assim, eu poderia ter aprendido muito, eu aprendi nem Google a
+gente não tinha, a gente não tinha nem Google, não tinha nem celular na minha época assim, assim, mas tudo bem assim.
+Então assim, então hoje assim a minha capacidade de aprendizado seria muito maior do que ela foi possivelmente e eu
+poderia ter talvez eh ter me arriscado mais em algumas coisas porque eu talvez tivesse mais acesso a conhecimento que
+eu não tive naquele momento lá, né? Então eu acho que hoje a gente tem uma
+uma clareza, né, e uma e uma e uma amplitude de conhecimento que a gente às
+vezes não aproveita como a gente poderia aproveitar, né? E por isso que eu falo, se a gente não priorizar a gente e se a
+gente não priorizar o nosso tempo paraa gente aprender, não adianta assim qualquer coisa assim,
+né? Então acho que esse esse é o ponto assim, né? Acho que por isso que eu falo, a responsabilidade está na nossa
+mão, né? Assim, a gente às vezes a gente às vezes a gente quer terceirizar, mas no final das contas é a gente que decide
+sempre no final das contas. É isso aí.
+Show de bola. inspirador, pessoal falando, piada. É isso, é isso mesmo. É, a gente brinca,
+a gente é que assim, tem o pessoal da na na Dialha com a gente lá, que às vezes a
+gente faz uma brincadeira, o pessoal, não, mas tem Google. Falei: "Cara, na nossa época tinha alguns tem alguns dinossauros lá que nessa época não tinha
+Google e a gente tinha que se virar também, mas eram outros conhecimentos". Eu acho que tem que aproveitar e ah, justamente acho que é esse sentido, ser
+protagonista, amplificar, entender como funciona. E aí, só passando aqui, deixa eu só compartilhar minha tela, minha
+tela bem rápido aqui para todo mundo
+entender, mas basicamente, Ops, pera lá, pera lá, pera lá, pera lá, pera lá, tá aqui. Tão conseguindo ver
+minha tela? É justamente para isso que o Itaú veio. O IT carregou.
+É, no caso ainda tá tá carregando, carregou, tá carregando para mim, mas para mim já
+carregou, já carregou. Então, basicamente esse é o bootcamp. Para quem não conhece inteligência artificial, vi algum
+pessoal falando: "Poxa, mas eu não conheço". Justamente por isso que o Itaú tá apoiando a comunidade. Então, tem um
+pouco mais de, de dar um refresh aqui, um pouco mais de 8.000 pessoas já inscritas no bootcamp aqui
+embaixo você tem toda a jornada, principalmente com inteligência
+artificial para você aprender engenharia de prompt, o que é LLM, como potencializar o uso da IA dentro do dia
+a dia da programação. Então como nunca estudar, nunca estudar sozinho. Então tem um curso especializado só para você
+criar um agente para te apoiar e é tudo isso que te ajuda a amplificar. Boot Camp tem 45 horas e é o nível básico
+para quem quer dar os primeiros passos com Java. Aqui também toda a parte de
+fundamentos de Java e principalmente aí Spring Boot, Spring Cloud, Spring Data,
+Spring Security para você acelerar a sua jornada eh de entrada no mercado de
+tecnologia. O pessoal tá perguntando, pode mais fica à vontade. Caio, deixa só, não, só para desculpa te
+interromper assim. Ô Caio, eu vi algumas perguntas aqui passando rapidinho. Eh,
+as pessoas ainda estão com dúvida aqui, né, assim, de como que é ajuda o profissional de programação.
+Dá um exemplo para eles, Caio. Assim, acho que vai, você tem bastante ali, tá? É o seu dia a dia. Isso. Dá um exemplo
+aqui de como que isso ajuda, cara. Acho dá para para misturar isso com o uso de cloud aqui dentro, tá? Vira
+e mexe a gente cria algumas peças que devem ser replicadas e antes, né, da Iá,
+no Antigo Testamento, a gente replicava essas peças ali mudando ali, dependendo do cenário, da parte ali da aplicação
+que a gente precisava criar. É, quando eu falo peças, tá, pessoal, são peças de infraestrutura, tudo mais, vão vendo ali
+cláudio, eh, a gente precisava replicar elas na mão. Então, pensa que isso, eh,
+pra gente quando tecnologia era muito demorado. Então, eh, hoje a gente passa
+a replicar essas peças que, claro, a gente não vai conseguir replicar essa
+peça, entender o que a gente fez ali se a gente não sabe o que tá acontecendo por trás. Então, claramente você tem que entender como funciona ali eh partes da
+aplicação. Mas voltando aqui, a IA ela acelera esse tipo de desenvolvimento, não só criação de código em si, tá? Mas
+até para você aprender, estudar junto com a IA, se você souber usar. Então, até tinha visto esse comentário que a IA
+é um pesadelo para quem não sabe usar e é um acelerador para quem sabe, né? Então, no dia a dia é isso, é muito
+sobre você acelerar desenvolvimento pegando coisas que você criaria na mão, que não vão ser úteis de você criar na
+mão hoje em dia, até porque tem a IA. E não só isso, mas você também aprender com ela, sabe? eh partir eh com ela a
+partir de sugestões eh que você passa e ela te te dá ali, entrega ali um eh um
+insight sobre o desenvolvimento e enfim, cara, não não fica muito preso. É tipo,
+pô, para que que eu vou usar IA aqui se
+se eu já sei isso, tal? Não, usa para acelerar, vai ser bom, vai ser útil para você. Eu acho que para complementar o
+que tá dizendo, gente, para ajudar aqui vocês, eh, imaginem que antigamente, assim, a
+gente tinha muitas especificidades aqui de linguagem aqui, eram muito diferentes uma das outras, né? Eu lembro que eu
+comecei com Pascal, olha, me entregando aqui uma idade Pascal cobol, né, assim, é essa minha época aí e assim e e assim
+e para quem fazia, por exemplo, depois eu fui aprender ali orientado objeto, depois fui aprender outras coisas assim
+e é totalmente diferente. E quando o Caio traz um pouco dessa aceleração, se
+a gente tem o contexto de entender lógica de programação, de como que eu resolvo problemas, de como eu eu tenho
+ali o fundamento da engenharia de software, a IA me ajuda a escrever em qualquer linguagem, né? Então isso traz
+um acelerador não só de aprendizado, mas também aqui do do quanto que eu tô eh eh
+consigo ajudar aqui o time onde eu estou, no caso que a gente chama de squad aqui dentro do banco, eh a
+entregar coisas mais rápido, né, assim, porque o código e a linguagem assim ela vai ser pode ser diferente dependendo do
+contexto de squad que a gente tem aqui no banco, mas independente disso aí há também um acelerador para fazer este
+código, né, assim, então entre aspas assim aquele medo que a gente tinha de
+Mas eu não sei Java. Ah, eu eu não sei Angular. Ah, eu não sei Cotlin
+assim. Então hoje assim aí ela ajuda nessa nessa nossa angústia, né, assim,
+por quê? Porque eu sei lógica de programação, eu sei raciocínio lógico e eu sei que eu levaria, se eu fosse fazer
+um código, por exemplo, em Angular, talvez eu demoraria, sei lá, 4 horas. Aí ela vai me rodar lá em 2 minutos, só que
+eu vou usar o meu conhecimento para validar se o código tá bom, se ele não tem problemas de segurança, se ele de
+fato tá gerando aquilo que eu preciso, se eu eu vou ter tempo para vai ter tempo para fazer mais teste. E a gente
+tem muito teste automatizado hoje que é feito com as condições da IA no contexto que o Caio trouxe aqui de replicar.
+Então assim, então tudo isso, né, a gente fala que isso agrega no contexto da programação. Então não é mais a
+programação pela programação, mas de como que eu uso os fundamentos da
+programação para usar a IA para fazer códigos melhores do que eu faço hoje. É,
+e acho que esta é é o é é a mudança, né, de mindset aqui, né, menos a programação
+pela programação, mas de como que eu uso a IA para que meu código seja ainda melhor e e construído de uma maneira
+mais rápida, dado o conhecimento que eu tenho, né, dos meus fundamentos e dos estudos que eu tenho no final das
+contas. Não, incrível. Complementando, PR, ficou entrando. Pera aí. Só só só um
+complemento, ô Iglá, que assim, a, o código ele não vai surgir ali do nada porque a IA existe, sabe? Ou porque você
+passou para ela um, prompt de três linhas e pronto, acabou. Não, você tem que orientar ela. Então, mais do que
+nunca, fundamento importante, eh, entendimento sobre a linguagem também para você confirmar o que tá sendo feito e guiar ela para trazer a melhor
+otimização possível. Claro que a curva ela muda, né? você consegue ali aprender uma linguagem nova, eh, barra fazer um
+projeto ali numa linguagem nova que você nunca teve contato, porque o fundamento ali não vai mudar, mas você vai
+aprendendo junto com ela e e tem que tem que usar, cara. Boa. Vou compartilhar um case que eu fiz
+essa semana aqui, mas eu acho que a tecnologia ela é tão democrática que você não precisa est dentro do Itaú para
+usar IA e conseguir fazer um software, sabe? lá você tá ampliando, mas você
+pode na sua própria casa olhar de repente um problema que você tem, falar: "Poxa, eu tô com problema ABC, como que
+eu resolvo isso através de um software e faço algo relevante para um dia que eu vou fazer entrevista?" Eu fiz um
+software essa essa semana, eu tinha vários vários brokers, né, que eu usava de para fazer trading, só para mostrar o
+pessoal e eu explico como eu fiz bem bem rapidinho aqui. Mas deixa eu só pegar
+aqui. Boa. Tão vendo minha tela aí?
+Sim. Esse software eu fiz essa semana que uma semaninha aqui que é para fazer eh para
+fazer trade, né? Geralmente eu tinha vários brokers, mas é um problema meu. Eu não vou comercializar o software, eu não vou passar para ninguém, mas eu fiz
+usando React, né? Então você tem que ter os fundamentos. A gente a gente fala muito assim, poxa, se você tiver os
+fundamentos que a que a Prigenharia, de software, de lógica de programação,
+você consegue se tornar um poliglota em tecnologia, porque o coding é você pedir para ela e passar um bom requisito,
+automatizar os testes, fazer a validação, conhecer a infraestrutura para saber publicar, mas no final você
+consegue fazer aquilo ali. fiz em React, fazia muito tempo que eu não programava, fiz em Python e GO, mas para resolver
+especificamente um problema meu que eu queria ter vários brokers para fazer trading comigo e usar IA. Então assim,
+você pode pegar na sua casa e com esse conhecimento que você vai adquirir com Java e inteligência artificial, que que
+você pode solucionar depois e criar um projeto seu específico e vai ganhando
+experiência, né? Então acho que esse é um é um pouco do caminho, né? Eu vi aqui que muita gente ficou animada e tem
+bastante pergunta. vocês queriam falar alguma coisa, PR? Queria puxar à vontade. Não, eu eu não não é que eu tô lendo
+aqui as perguntas. Acho que tem algumas perguntas aqui que é para você, tá? Ou pro Artur, tá bom? Assim, eles querem
+saber se tem idade mínima para fazer o bootcamp, por exemplo, se o bootcamp é presencial, é online, assim, acho que
+talvez vale a pena ler, trazer um pouco de pessoal tá ansioso sobre essas respostas, tá
+boa. Assim, a gente acaba seguindo a a lei feli, né? Então assim, são 18 anos
+você tem que ter para fazer o bootcamp e gratuito, é só se cadastrar. A gente é
+uma comunidade aberta, então as pessoas trocam ideias, estão ali dentro a todo momento trocando ideias. Ele é online,
+então são 15.000 1000 bolsas de estudo. Se você nunca fez, clica aqui embaixo na
+na descrição. Eh, clica aqui embaixo na descrição e você consegue fazer a sua inscrição.
+Eh, e aproveite muito essa oportunidade, porque além de você ter o seu passo, que
+você pode fazer as aulas em vídeo, vão ter também mentorias com horas programadas aonde você pode participar,
+se conectar, tirar dúvidas e acho que essa é uma super experiência também, né?
+Deixa eu ver se tem mais alguma aqui. Eu acho que é o pouco disso. É isso.
+Acho que a gente tá chegando aqui na nossa ah no nosso encerramento aqui. Eu queria antes de passar para pro Artur e
+pro Caião, eh dar os seus últimas considerações. Queria agradecer muito ao
+Banco Itaú. Eh, você sabe que a gente só consegue fazer impacto, transformar por
+essa doação. Vocês poderiam, cada um tá na sua casa tranquilo, já com a família, já chegando em casa, descansado. Sei que
+passaram um dia intenso aí correndo, mas não, a gente tá aqui, vocês estão aqui compartilhando essa oportunidade e são
+15.000 e o bols. Então fica aqui a em nome de toda nossa nosso time, nossa comunidade, esse agradecimento de
+coração por tudo isso que vocês estão ajudando e trazendo de experiência para toda que a gente consiga ir mais longe
+junto. Pri, queria que deixava você à vontade assim, poxa, não tenho como
+agradecer você, a inspiração, toda a galera. Poxa, Pri, quero seguir, me passa o LinkedIn, como eu faço para
+seguir? Poxa, Mega, obrigado. Fica à vontade para fazer suas últimas, suas considerações finais e dar aquela super
+dica pro time. Obrigado por estar com a gente nessa jornada. Gente, eu vim aqui, gente, eu não tenho
+três faculdades nem 20 certificados, tá bom? Assim, vi que algumas pessoas entrar aqui, gente, não tenho assim, mas eu sou uma pessoa muito curiosa. Eu
+gosto de estudar bastante, faço vários estudos por fora. Eh, então assim, eu
+sou gosto muito assim, então eu não consigo parar de estudar. Mas eu também vi uma preocupação aqui e daí acho que
+já fica uma dica. Eh, gente, não tentem estudar tudo que tá acontecendo no mercado, não. Não rola. Assim, eu acho
+que eh acho que o Caio depois pode falar um pouquinho sobre isso, assim, a gente tem que focar naquilo que a gente tá querendo, assim, porque se vocês forem
+abrir muito o seu leque de estudo, não vai dar certo, porque o foco vai
+ficar muito ampliado e você acaba perdendo ali de fato a especificidade, talvez aquilo seja a diferença daquilo
+num processo seletivo que você vai participar, independente da onde você vai participar. Então assim, então eu
+sempre falo assim, o qual é o que você vai ficar, o que que você vai ser feliz fazendo? E baseado nesta resposta
+deveria ser o que vai se escolher, o que que você vai estudar e o que que você vai se dedicar. Então acho que é uma dica que eu dou aqui. Acho que a outra
+dica que eu dou eh se arrisquem de vez em quando, tá gente? Assim, a gente não
+busca que o superhomem, a super mulher aqui dentro do banco. A gente sim tem algumas características nas vagas
+descritas, como o Artur trouxe, sim, porque a gente busca pela necessidade que a gente tem técnica aí de negócio,
+mas não significa que a gente também segue ali a risca ali, né? Porque dependendo eh eu vou falar por mim, tá
+bom? Priscila Silveira Rocha aqui, tá bom? Às vezes é muito melhor eu ter uma pessoa que tem ali uma uma gana de
+aprender e que a curva de aprendizado é altíssima do que às vezes uma pessoa que sabe um montão de coisas, mas ela não
+tem o perfil de transformação, ela não é protagonista, então não tem atitude. Então assim, então essas coisas têm que
+ser combinadas no final das contas, né? Então e quando a gente responde aquela pergunta anterior do que eu vou ser
+feliz fazendo, você vai escolher de fato as coisas certas para estudar. Eu acho que aqui no bootcamp a gente tá dando
+uma oportunidade incrível aqui de como que a gente usa aqui a linguagem de Java mais a questão da inteligência
+artificial para fazer projetos incríveis e vocês terem os portfólios de vocês para que vocês tenham eh mais
+oportunidades no mercado de trabalho, né? assim, acho que menos sobre ser o Itaú ou não, pode ser também, mas
+daquilo que a gente também quer oferecer aqui para vocês, daquilo que vocês podem eh enxergar, talvez de possibilidades
+que vocês não estavam enxergando antes. Então, acho que aqui é uma possibilidade. Eh, e peçam ajuda, né?
+Assim, tem várias pessoas aqui, o Caio tá no LinkedIn, eu tô, Artur tá, e tem vários outros pares meus aqui que estão
+no LinkedIn e a gente nunca se negou de responder nada para ninguém. Eu sei que o Caio não negou, o Artur não negou e eu
+também nunca neguei aqui, né? E o que a gente puder fazer para ajudar, para dar dica, né? Assim, a gente sempre vai tá
+aqui dando dica, obviamente, mas acho que parte, para mim, o ponto principal, ter protagonismo, ter atitude, eh estar
+ativo, e não é só pela rede social, pela rede social, mas estar ativo no aprendizado, na conexão com as pessoas,
+na busca pelo conhecimento, se conectando com comunidades que t a ver com aquilo que você quer fazer. Eh, e se
+arrisquem. Eu falo que assim, precisamos ter coragem pra gente eh ir paraa frente
+assim, né? Se a gente não tiver coragem, a gente não vai sair do lugar e vai com medo mesmo, como eu falei para vocês
+também, tá bom? Assim, então eu como mulher em tecnologia, assim, eu entrei aqui no banco, tinha, eu era a única
+mulher numa área de 150 homens, né? Então assim, e hoje quando a gente olha paraa questão de mulheres dentro do
+banco, isso evoluiu muito e a gente tem muitas mulheres que são líderes hoje, mas porque também tiveram a constância
+do estudo, a constância de buscar ser diferente e a constância de de fato eh
+eh ser melhor ali no dia a dia, no sentido ali de estudar, de querer conhecer e mais importante a capacidade
+de transformar, tá? Porque quando a gente fala de um de uma empresa do do da idade da nossa, tem que ter a capacidade
+de transformar. Não tem jeito assim, tem que ter a capacidade de transformar e trazer coisas diferentes no dia a dia.
+Mega inspirador, obrigado. Obrigado demais. Queria só convidar todos pra gente tirar uma foto antes do de passar
+pro Artur e pro Caio aqui fazer o encerramento. Geralmente também no finalzinho a gente fala pra comunidade assim: "Cara, compartilha um
+aprendizado. O que que você aprendeu? Coloque no LinkedIn. Marca a Priscila, marca o Artur, marca o Caio, me marca.
+Depois a gente entra lá e comenta também. Vamos lá, só paraa foto. Tira o print aqui, marca a gente, marca no
+LinkedIn. Valeu. 1 2 3. Foi. Marca lá no LinkedIn, adiciona. Depois a gente entra
+e comenta também. Compartilha um pouco de toda essa inspiração que a galera tá falando aqui, que que trouxe dessa live
+para que outras pessoas também possam e compartilhe o bootcamp para que mais pessoas possam se inscrever. Artur,
+poxa, mega obrigado. Assim, eh, pra gente, a gente não tem como agradecer só dedicação, esforço, tudo aquilo que você
+fez aí nos bastidores para fazer acontecer essa grande jornada. E, poxa, que impacto incrível, mega inspirador.
+Fica à vontade também para fazer suas considerações finais. Obrigada. Valeu. O prazer é nosso aqui de estar se
+conectando com com tanta gente, ter essa oportunidade de eh desenvolver o mercado
+assim, né? De estar junto com vocês desenvolvendo o mercado. Assim, eu acho que isso pra gente é o mais importante,
+assim, eh, a gente ganha, a galera que que tá assistindo e que vai fazer aqui o
+bootcamp vai ganhar também, né, com conhecimento, com aprendizado. Então, isso pra gente é o que mais importa. Eh,
+mas eu acho que eu reforço aqui, tá gente? Quando a gente fala de Itaú, essa empresa centenária que vocês vem todos
+os dias, no final a combinação de uma empresa que é sólida, né, com mais de
+100 anos aqui de existência e que vem se transformando todos os dias no final das contas. E assim, tem inúmeras
+oportunidades. É um espaço para crescer, para se desenvolver, para eh ser
+acolhido, né? Enfim, então acho que eh quem quem vocês puderem se conectar,
+trocar e tudo mais, a Pria ela comentou aqui um ponto importante, né? A gente não se nega a a abrir portas, a
+discutir, a conversar. Talvez agora com as 40 solicitações de conexão no meu
+LinkedIn que eu acabei de ver, talvez eu demore um pouquinho para responder vocês, todo mundo, mas eu vou chegar em
+todo mundo, eu prometo, tá? Mas eh eu acho que é isso, assim, é todo mundo
+muito aberto e a gente quer ver o sucesso de todo mundo aqui. Eh, aqui no
+banco a gente recebe eh inúmeras centenas, milhares de candidaturas todos
+os dias, mas a gente também abre centenas, milhares de vagas todos os dias, assim. Então, eh, eu acho que aqui
+tem muita oportunidade quando a gente fala do Itaú, mas aí a gente espera que,
+eh, não só para o banco, mas que isso fortaleça aqui o perfil de vocês, né, toda essa
+jornada que a gente tá coconstruindo aqui com a DIO, seja uma plataforma para
+que vocês deem os próximos passos de carreira, seja no banco, que eu vou ficar muito feliz de encontrar vocês no
+corredor mais paraa frente, né? Ai, Artur, vi você, você me ajudou e tal, vou ficar muito feliz, né, de quando eu
+encontro várias pessoas que passaram aqui, né, por de alguma maneira eu impactei de alguma forma, mas né, também
+no mercado que tem inúmeras oportunidades. Então, eu acho que o fim do dia o Itaú ela essa marca empregadora
+que ela desenvolve dentro e também para fora, assim, sabe? Isso é muito bacana.
+Show de bola. Vou pegar uma antes de passar pro Caão, vou pegar uma última dúvida aqui da Adriana. Cadê a Adriana?
+Aqui. Aqui, ó. Adriana passando aqui pra gente. Afinal, o objetivo bootcamp seria aprendizado ou possibilidade de
+trabalhar no Itaú ou os dois? Só lembrando que assim, na Dio, para quem ainda não conhece, a gente é uma
+plataforma onde tem mais de 130 empresas que estão conectadas a uma plataforma que chama Talent Mat. Claro que todas as
+pessoas que graduarem no bootcamp, o Itaú tem prioridade de ver dentro da Talent. Aí é a opção do do Itaú, mas
+logo depois eh essa plataforma é acessível para as pessoas são conectadas com outras empresas e vai de acordo com
+as vagas e com os talents que estão usando a plataforma. Quanto mais bootcamps e mais skills você desenvolver, mais próximo você tá.
+Lembrando que assim, a área de tecnologia, ela também não é fácil, ela é uma área que exige consistência. Então
+faz um bootcamp, desenvolve um conjunto de skis, faz o outro bootcamp. Prime mesmo falou o Artur, poxa, aqui a gente
+usa a cloud, a WS também é uma mega parceira nossa. A gente tem inúmeros bootcamps sobre a WS, a gente tem
+inúmeros bootcamp sobre React, inúmeros bootcamps sobre desenvolvimento móvel do mobile. Então assim, eh, vai
+desenvolvendo e vai aprendendo. E os dois são a conexão e a gente já conectou mais de 50.000 pessoas com o mercado de trabalho, porém é uma é uma área que
+realmente exige consistência de estudo. Eh, então vamos para cima. Vamos para cima aí.
+Oi, CL, deixa eu fazer um comentário aqui dos bastidores, que isso nem você e nem o seu time, sabe? Mas é o seguinte,
+eu quando a gente começou a eh a di que veio até o até o Itaú oferecer a
+proposta da gente fazer aqui o boot camp em conjunto e tudo mais, e aí eu falei assim: "Ah, pera aí, deixa eu ver, né, o
+que que as pessoas que já fizeram a dio falam sobre a di, né?" E aí eu fui atrás
+de pessoas de dentro do banco que já tinham eh passado pela DI em algum outro
+momento assim, sabe? Então a gente foi atrás e e e teve ali alguns feedbacks e
+tudo mais. Então tô falando isso porque a gente já teve vários colaboradores que passaram pela DIO em outro momento e
+agora tão dentro do banco, assim, sabe? Então eh a gente tem diversas vagas e
+vai ter oportunidade aqui, mas eh como o Igá falou assim, né? profundidade,
+desenvolvimento, né? Faz parte da cultura aqui do do banco e ao mesmo
+tempo é o é o que a gente tá tá buscando aqui colocar paraas pessoas. Eh, e mas
+assim, temos oportunidades, temos possibilidades aqui de de encaminhar
+para que vocês sejam youtubers, né, no futuro, mas eh no final do dia eh já
+temos casos inclusive no passado, mas é isso, né, dedicação e tudo mais, tá bom?
+Aí, só adicionando o comentário, a gente tem uns clientes nossos, GT, Avanadia Accentry e NFT Data, que a maioria
+dessas empresas estão todas dentro do banco, são prestadores de serviço dentro do Itaú.
+Show [limpando a garganta] de bola. Várias, gente. Um monte de empresa. A gente tem bastante bastante empresa que é cliente nosso, que contrata
+talentos pra gente e depois aloca, claro, nos times que estão desenvolvendo projeto dentro de grandes empresas.
+Calão, poxa, parabéns pela jornada. Obrigado por trazer a inspiração aqui pra gente, cara. Conta sempre com a
+gente. Obrigado por todo o apoio, por compartilhar aí com o time jornada de sua jornada e poxa, parabéns. Fica à
+vontade para compartilhar também seu encerramento. Obrigado. Obrigadão, Iglá. Muito obrigado, pessoal. E até comentando, você comentou
+GFT. Lembrei agora que o meu amigo acabou entrando na GFT por conta de um boot camp que teve aqui da da Dio, né?
+Bem maneiro. E já aproveitando o gancho, acho que o que a Priur falaram ali, eh,
+faço das palavras deles, as minhas também. E vou passar aqui dois secados que são mega importantes. Primeiro, é,
+independentemente se você tá começando agora aí na área de tecnologia e tá começando aqui no bootcampio ou já
+começou anteriormente e tava buscando aqui como uma alavanca mais e tudo mais na área de tecnologia, cara, aproveita.
+eh, pode ser uma porta de entrada aqui para você. Então, aproveita ao máximo do boot campo,
+eu caio, aproveita o máximo de qualquer oportunidade que chegar, sabe? Eh, mas claro, sempre ali, eh, buscando entender
+até pelo que a Priscila falou, não vai pegar um leque gigante para estudar sobre tudo o tempo todo, até porque
+senão você vai se confundir, você vai acabar se perdendo ali. E esse bootcamp que é essencial para que você tenha ali
+e não só uma stack formada, mas também é oportunidades que que vão chegar, até
+como o Iglá falou ali, tem case de sucesso e tudo mais. Então, aproveita o boot camp, é uma parte de entrada. Esse
+é o primeira o primeiro recado que queria passar para vocês. E o segundo recado é o seguinte: eh esteja em
+evidência. Acho que agora é o momento para isso. Eh, não só eh no NinkedIn e
+com GitHub arrumado e tudo mais, mas também eh em comunidades no geral. Acho que a gente falou muito disso aqui, né,
+nessa live, mas agora é o momento para você estar em evidência. Eh, quando eu digo estar em evidência, é até o que a
+Pri falou ali de hoje em dia o LinkedIn é o lugar onde a gente tá eh entregando, onde a gente entregava currículo de
+porta em porta antigamente. Então, eh aproveita, saindo dessa live aqui, já faz o teu post, mostra que você é ativo,
+que você tá correndo atrás, que você tá realmente ali interessado ali na na área de tecnologia, que você tá se engajando
+de fato aqui. E é muito importante que você esteja ali, não só ativo, mas também em evidência, então mostrando o
+que você tá fazendo durante os estudos. E isso de certa forma não só te beneficia ali no mercado por estar se
+conectando com pessoas e e mostrando o que você tá fazendo pr as pessoas, mas também te incentiva de certa forma,
+sabe? Eh, daqui a pouco você vai olhar ali para trás, vai falar: "Putz, ainda bem que eu comecei, ainda bem que que eu
+documentei isso, isso aí é muito importante também". Show de bola. Show de bola. Gente,
+queria agradecer a toda a comunidade que separou um tempinho para estar aqui com a gente. Agradecer também Priur Caião,
+obrigado por tá com a gente. E agora do nosso lado fizemos uma grande parte. Agora conto muito com vocês para que
+vocês continuem essa jornada. São 15.000 bolsas. Compartilhe no LinkedIn, compartilhe essa oportunidade que, sem
+dúvida nenhuma tem muita conhecimento aí. Java, inteligência artificial, Spring Data, Spring Security, Spring
+Cloud, muito conhecimento para você se conectar, não só nessa live de hoje, mas durante as mentorias também com essa
+empresa incrível, um dos bancos mais inovadores do mundo e que transborda inspiração. Valeu, gente. Um grande
+sucesso e até a próxima. Tchau, tchau. Durante anos, a Di fez a diferença,
+inspirou talentos, abriu portas, conectou pessoas a oportunidades reais e junto com as empresas mais inovadoras do
+mundo e experts sensacionais, criou a maior comunidade téc da América Latina. Essa é a DIO que conquistou o mundo, que
+foi reconhecida pelo Fórum Econômico Mundial como Technology Pioneer, que distribuiu mais de 3.7 milhões de bolsas
+e que impactou 21 milhões de pessoas. Fazer a mudança foi só o começo. O mundo
+mudou e isso não é mais o suficiente. [música] Agora é necessário construir a mudança. Agentes de IA estão criando a
+maior janela de oportunidades do mercado global. 170 milhões de novas funções surgirão até 2030. Profissionais com
+domínio em A já recebem em média 50% a mais. E pela primeira vez na história, uma única pessoa pode construir um
+negócio de escala global. O mercado ainda está sendo estruturado e as posições ainda estão em aberto. Quem
+dominar agentes de agora sai em vantagem. A DIIO está aqui para isso, para você builder dominar os agentes de
+inteligência artificial que estão redefinindo o metade. Com mais de 157 empresas globais e experts do mundo
+inteiro, a Di organiza o caminho completo do aprendizado à construção, da construção à oportunidade. Você cria
